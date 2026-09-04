@@ -1,0 +1,1130 @@
+﻿Order ID,Order Date,Ship Date,Customer ID,Country,City,State,Postal Code,Region,Category,Sales,Quantity,Discount,Profit
+CA-2016-152156,08-11-2016,11-11-2016,CG-12520,United States,Henderson,Kentucky,42420,South,Furniture,261.96,2,0,41.9136
+CA-2016-152156,08-11-2016,11-11-2016,CG-12520,United States,Henderson,Kentucky,42420,South,Furniture,731.94,3,0,219.582
+CA-2016-138688,12-06-2016,16-06-2016,DV-13045,United States,Los Angeles,California,90036,West,Office Supplies,14.62,2,0,6.8714
+US-2015-108966,11-10-2015,18-10-2015,SO-20335,United States,Fort Lauderdale,Florida,33311,South,Furniture,957.5775,5,0.45,-383.031
+US-2015-108966,11-10-2015,18-10-2015,SO-20335,United States,Fort Lauderdale,Florida,33311,South,Office Supplies,22.368,2,0.2,2.5164
+CA-2014-115812,09-06-2014,14-06-2014,BH-11710,United States,Los Angeles,California,90032,West,,48.86,7,0,14.1694
+CA-2014-115812,09-06-2014,14-06-2014,BH-11710,United States,Los Angeles,California,90032,West,Office Supplies,7.28,4,0,1.9656
+CA-2014-115812,09-06-2014,14-06-2014,BH-11710,United States,Los Angeles,California,90032,West,Technology,907.152,6,0.2,90.7152
+CA-2014-115812,09-06-2014,14-06-2014,BH-11710,United States,Los Angeles,California,90032,West,Office Supplies,18.504,3,0.2,5.7825
+CA-2014-115812,09-06-2014,14-06-2014,BH-11710,United States,Los Angeles,California,90032,West,Office Supplies,114.9,,0,34.47
+CA-2014-115812,09-06-2014,14-06-2014,BH-11710,United States,Los Angeles,California,90032,West,Furniture,1706.184,9,0.2,85.3092
+CA-2014-115812,09-06-2014,14-06-2014,BH-11710,United States,Los Angeles,California,90032,West,Technology,911.424,4,0.2,68.3568
+CA-2017-114412,15-04-2017,20-04-2017,AA-10480,United States,Concord,North Carolina,28027,South,,15.552,3,0.2,5.4432
+CA-2016-161389,05-12-2016,10-12-2016,IM-15070,United States,Seattle,Washington,98103,West,Office Supplies,407.976,3,0.2,132.5922
+US-2015-118983,22-11-2015,26-11-2015,HP-14815,United States,Fort Worth,Texas,76106,Central,Office Supplies,68.81,5,0.8,-123.858
+US-2015-118983,22-11-2015,26-11-2015,HP-14815,United States,Fort Worth,Texas,76106,Central,Office Supplies,2.544,3,0.8,-3.816
+CA-2014-105893,11-11-2014,18-11-2014,PK-19075,United States,Madison,Wisconsin,53711,Central,Office Supplies,665.88,6,0,13.3176
+CA-2014-167164,13-05-2014,15-05-2014,AG-10270,United States,West Jordan,Utah,84084,West,Office Supplies,55.5,2,0,9.99
+CA-2014-143336,27-08-2014,01-09-2014,ZD-21925,United States,San Francisco,California,94109,West,Office Supplies,8.56,2,0,2.4824
+CA-2014-143336,27-08-2014,01-09-2014,ZD-21925,United States,San Francisco,California,94109,West,Technology,213.48,3,0.2,16.011
+CA-2014-143336,27-08-2014,01-09-2014,ZD-21925,United States,San Francisco,California,94109,West,,22.72,4,0.2,7.384
+CA-2016-137330,09-12-2016,13-12-2016,KB-16585,United States,Fremont,Nebraska,68025,Central,Office Supplies,19.46,7,0,5.0596
+CA-2016-137330,09-12-2016,13-12-2016,KB-16585,United States,Fremont,Nebraska,68025,Central,Office Supplies,60.34,7,0,15.6884
+US-2017-156909,16-07-2017,18-07-2017,SF-20065,United States,Philadelphia,Pennsylvania,19140,East,Furniture,71.372,2,0.3,-1.0196
+CA-2015-106320,25-09-2015,30-09-2015,EB-13870,United States,Orem,Utah,84057,West,Furniture,1044.63,3,0,240.2649
+CA-2016-121755,16-01-2016,20-01-2016,EH-13945,United States,Los Angeles,California,90049,West,Office Supplies,11.648,,0.2,4.2224
+CA-2016-121755,16-01-2016,20-01-2016,EH-13945,United States,Los Angeles,California,90049,West,Technology,90.57,3,0,11.7741
+US-2015-150630,17-09-2015,21-09-2015,TB-21520,United States,Philadelphia,Pennsylvania,19140,East,Furniture,3083.43,7,0.5,-1665.0522
+US-2015-150630,17-09-2015,21-09-2015,TB-21520,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,9.618,2,0.7,-7.0532
+US-2015-150630,17-09-2015,21-09-2015,TB-21520,United States,Philadelphia,Pennsylvania,19140,East,Furniture,124.2,3,0.2,15.525
+US-2015-150630,17-09-2015,21-09-2015,TB-21520,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,3.264,2,0.2,1.1016
+US-2015-150630,17-09-2015,21-09-2015,TB-21520,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,86.304,6,0.2,9.7092
+US-2015-150630,17-09-2015,21-09-2015,TB-21520,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,6.858,6,0.7,-5.715
+US-2015-150630,17-09-2015,21-09-2015,TB-21520,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,15.76,2,0.2,3.546
+CA-2017-107727,19-10-2017,23-10-2017,MA-17560,United States,Houston,Texas,77095,Central,Office Supplies,29.472,3,0.2,9.9468
+CA-2016-117590,08-12-2016,10-12-2016,GH-14485,United States,Richardson,Texas,75080,Central,Technology,1097.544,7,0.2,123.4737
+CA-2016-117590,08-12-2016,10-12-2016,GH-14485,United States,Richardson,Texas,75080,Central,Furniture,190.92,5,0.6,-147.963
+CA-2015-117415,27-12-2015,31-12-2015,SN-20710,United States,Houston,Texas,77041,Central,Office Supplies,113.328,9,0.2,35.415
+CA-2015-117415,27-12-2015,31-12-2015,SN-20710,United States,Houston,Texas,77041,Central,Furniture,532.3992,3,0.32,-46.9764
+CA-2015-117415,27-12-2015,31-12-2015,SN-20710,United States,Houston,Texas,77041,Central,,212.058,3,0.3,-15.147
+CA-2015-117415,27-12-2015,31-12-2015,SN-20710,United States,Houston,Texas,77041,Central,Technology,371.168,4,0.2,41.7564
+CA-2017-120999,10-09-2017,15-09-2017,LC-16930,United States,Naperville,Illinois,60540,Central,Technology,147.168,4,0.2,16.5564
+CA-2016-101343,17-07-2016,22-07-2016,RA-19885,United States,Los Angeles,California,90049,West,Office Supplies,77.88,2,0,3.894
+CA-2017-139619,19-09-2017,23-09-2017,ES-14080,United States,Melbourne,Florida,32935,South,Office Supplies,95.616,2,0.2,9.5616
+CA-2016-118255,11-03-2016,13-03-2016,ON-18715,United States,Eagan,Minnesota,55122,Central,Technology,45.98,2,0,19.7714
+CA-2016-118255,11-03-2016,13-03-2016,ON-18715,United States,Eagan,Minnesota,55122,Central,Office Supplies,17.46,2,0,8.2062
+CA-2014-146703,20-10-2014,25-10-2014,PO-18865,United States,Westland,Michigan,48185,Central,Office Supplies,211.96,4,0,8.4784
+CA-2016-169194,20-06-2016,25-06-2016,LH-16900,United States,Dover,Delaware,19901,East,Technology,45,3,0,4.95
+CA-2016-169194,20-06-2016,25-06-2016,LH-16900,United States,Dover,Delaware,19901,East,Technology,21.8,2,0,6.104
+CA-2015-115742,18-04-2015,22-04-2015,DP-13000,United States,New Albany,Indiana,47150,Central,Office Supplies,38.22,6,0,17.9634
+CA-2015-115742,18-04-2015,22-04-2015,DP-13000,United States,New Albany,Indiana,47150,Central,Office Supplies,75.18,6,0,35.3346
+CA-2015-115742,18-04-2015,22-04-2015,DP-13000,United States,New Albany,Indiana,47150,Central,Furniture,6.16,2,0,2.9568
+CA-2015-115742,18-04-2015,22-04-2015,DP-13000,United States,New Albany,Indiana,47150,Central,Furniture,89.99,1,0,17.0981
+CA-2016-105816,11-12-2016,17-12-2016,JM-15265,United States,New York City,New York,10024,East,Office Supplies,15.26,7,0,6.2566
+CA-2016-105816,11-12-2016,17-12-2016,JM-15265,United States,New York City,New York,10024,East,Technology,1029.95,5,0,298.6855
+CA-2016-111682,17-06-2016,18-06-2016,TB-21055,United States,Troy,New York,12180,East,Office Supplies,208.56,6,0,52.14
+CA-2016-111682,17-06-2016,18-06-2016,TB-21055,United States,Troy,New York,12180,East,Office Supplies,32.4,5,0,15.552
+CA-2016-111682,17-06-2016,18-06-2016,TB-21055,United States,Troy,New York,12180,East,Furniture,319.41,5,0.1,7.098
+CA-2016-111682,17-06-2016,18-06-2016,TB-21055,United States,Troy,New York,12180,East,,14.56,2,0,6.9888
+CA-2016-111682,17-06-2016,18-06-2016,TB-21055,United States,Troy,New York,12180,East,Technology,30,2,0,3.3
+CA-2016-111682,17-06-2016,18-06-2016,TB-21055,United States,Troy,New York,12180,East,Office Supplies,48.48,4,0.2,16.362
+CA-2016-111682,17-06-2016,18-06-2016,TB-21055,United States,Troy,New York,12180,East,Office Supplies,1.68,,0,0.84
+CA-2015-135545,24-11-2015,30-11-2015,KM-16720,United States,Los Angeles,California,90004,West,Technology,13.98,,0,6.1512
+CA-2015-135545,24-11-2015,30-11-2015,KM-16720,United States,Los Angeles,California,90004,West,Office Supplies,25.824,,0.2,9.3612
+CA-2015-135545,24-11-2015,30-11-2015,KM-16720,United States,Los Angeles,California,90004,West,Office Supplies,146.73,3,0,68.9631
+CA-2015-135545,24-11-2015,30-11-2015,KM-16720,United States,Los Angeles,California,90004,West,Furniture,79.76,4,0,22.3328
+US-2015-164175,30-04-2015,05-05-2015,PS-18970,United States,Chicago,Illinois,60610,Central,Furniture,213.115,5,0.3,-15.2225
+CA-2014-106376,05-12-2014,10-12-2014,BS-11590,United States,Gilbert,Arizona,85234,West,Office Supplies,1113.024,8,0.2,111.3024
+CA-2014-106376,05-12-2014,10-12-2014,BS-11590,United States,Gilbert,Arizona,85234,West,Technology,167.968,4,0.2,62.988
+CA-2016-119823,04-06-2016,06-06-2016,KD-16270,United States,Springfield,Virginia,22153,South,Office Supplies,75.88,2,0,35.6636
+CA-2016-106075,18-09-2016,23-09-2016,HM-14980,United States,New York City,New York,10009,East,Office Supplies,4.616,1,0.2,1.731
+CA-2017-114440,14-09-2017,17-09-2017,TB-21520,United States,Jackson,Michigan,49201,Central,Office Supplies,19.05,3,0,8.763
+US-2015-134026,26-04-2015,02-05-2015,JE-15745,United States,Memphis,Tennessee,38109,South,Furniture,831.936,8,0.2,-114.3912
+US-2015-134026,26-04-2015,02-05-2015,JE-15745,United States,Memphis,Tennessee,38109,South,Furniture,97.04,2,0.2,1.213
+US-2015-134026,26-04-2015,02-05-2015,JE-15745,United States,Memphis,Tennessee,38109,South,,72.784,1,0.2,-18.196
+US-2017-118038,09-12-2017,11-12-2017,KB-16600,United States,Houston,Texas,77041,Central,Office Supplies,1.248,3,0.8,-1.9344
+US-2017-118038,09-12-2017,11-12-2017,KB-16600,United States,Houston,Texas,77041,Central,Furniture,9.708,3,0.6,-5.8248
+US-2017-118038,09-12-2017,11-12-2017,KB-16600,United States,Houston,Texas,77041,Central,Office Supplies,27.24,3,0.2,2.724
+US-2014-147606,26-11-2014,01-12-2014,JE-15745,United States,Houston,Texas,77070,Central,Furniture,19.3,5,0.6,-14.475
+CA-2016-127208,12-06-2016,15-06-2016,SC-20770,United States,Decatur,Alabama,35601,South,Office Supplies,208.16,1,0,56.2032
+CA-2016-127208,12-06-2016,15-06-2016,SC-20770,United States,Decatur,Alabama,35601,South,Office Supplies,16.74,3,0,8.0352
+CA-2014-139451,12-10-2014,16-10-2014,DN-13690,United States,San Francisco,California,94122,West,Office Supplies,14.9,,0,4.172
+CA-2014-139451,12-10-2014,16-10-2014,DN-13690,United States,San Francisco,California,94122,West,Office Supplies,21.39,,0,6.2031
+CA-2015-149734,03-09-2015,08-09-2015,JC-16105,United States,Durham,North Carolina,27707,South,Office Supplies,200.984,7,0.2,62.8075
+US-2017-119662,13-11-2017,16-11-2017,CS-12400,United States,Chicago,Illinois,60623,Central,Office Supplies,230.376,3,0.2,-48.9549
+CA-2017-140088,28-05-2017,30-05-2017,PO-18865,United States,Columbia,South Carolina,29203,South,Furniture,301.96,2,0,33.2156
+CA-2017-155558,26-10-2017,02-11-2017,PG-18895,United States,Rochester,Minnesota,55901,Central,Technology,19.99,1,0,6.7966
+CA-2017-155558,26-10-2017,02-11-2017,PG-18895,United States,Rochester,Minnesota,55901,Central,Office Supplies,6.16,2,0,2.9568
+CA-2016-159695,05-04-2016,10-04-2016,GM-14455,United States,Houston,Texas,77095,Central,Office Supplies,158.368,7,0.2,13.8572
+CA-2016-109806,17-09-2016,22-09-2016,JS-15685,United States,Los Angeles,California,90036,West,Office Supplies,20.1,3,0,6.633
+CA-2016-109806,17-09-2016,22-09-2016,JS-15685,United States,Los Angeles,California,90036,West,Technology,73.584,2,0.2,8.2782
+CA-2016-109806,17-09-2016,22-09-2016,JS-15685,United States,Los Angeles,California,90036,West,,6.48,1,0,3.1104
+CA-2015-149587,31-01-2015,05-02-2015,KB-16315,United States,Minneapolis,Minnesota,55407,Central,Office Supplies,12.96,2,0,6.2208
+CA-2015-149587,31-01-2015,05-02-2015,KB-16315,United States,Minneapolis,Minnesota,55407,Central,Furniture,53.34,3,0,16.5354
+CA-2015-149587,31-01-2015,05-02-2015,KB-16315,United States,Minneapolis,Minnesota,55407,Central,Office Supplies,32.96,2,0,16.1504
+US-2017-109484,06-11-2017,12-11-2017,RB-19705,United States,Portland,Oregon,97206,West,,5.682,1,0.7,-3.788
+CA-2017-161018,09-11-2017,11-11-2017,PN-18775,United States,New York City,New York,10009,East,Furniture,96.53,7,0,40.5426
+CA-2017-157833,17-06-2017,20-06-2017,KD-16345,United States,San Francisco,California,94122,West,Office Supplies,51.312,3,0.2,17.9592
+CA-2016-149223,06-09-2016,11-09-2016,ER-13855,United States,Saint Paul,Minnesota,55106,Central,Office Supplies,77.88,6,0,22.5852
+CA-2016-158568,29-08-2016,02-09-2016,RB-19465,United States,Chicago,Illinois,60610,Central,Office Supplies,64.624,7,0.2,22.6184
+CA-2016-158568,29-08-2016,02-09-2016,RB-19465,United States,Chicago,Illinois,60610,Central,Technology,95.976,,0.2,-10.7973
+CA-2016-158568,29-08-2016,02-09-2016,RB-19465,United States,Chicago,Illinois,60610,Central,Office Supplies,1.788,,0.8,-3.0396
+CA-2016-129903,01-12-2016,04-12-2016,GZ-14470,United States,Rochester,Minnesota,55901,Central,Office Supplies,23.92,,0,11.7208
+US-2015-156867,13-11-2015,17-11-2015,LC-16870,United States,Aurora,Colorado,80013,West,Technology,238.896,6,0.2,-26.8758
+US-2015-156867,13-11-2015,17-11-2015,LC-16870,United States,Aurora,Colorado,80013,West,Furniture,102.36,3,0.2,-3.8385
+US-2015-156867,13-11-2015,17-11-2015,LC-16870,United States,Aurora,Colorado,80013,West,Office Supplies,36.882,3,0.7,-25.8174
+CA-2017-119004,23-11-2017,28-11-2017,JM-15250,United States,Charlotte,North Carolina,28205,South,Technology,74.112,8,0.2,17.6016
+CA-2017-119004,23-11-2017,28-11-2017,JM-15250,United States,Charlotte,North Carolina,28205,South,Technology,27.992,1,0.2,2.0994
+CA-2017-119004,23-11-2017,28-11-2017,JM-15250,United States,Charlotte,North Carolina,28205,South,Office Supplies,3.304,1,0.2,1.0738
+CA-2015-129476,15-10-2015,20-10-2015,PA-19060,United States,Orland Park,Illinois,60462,Central,Technology,339.96,5,0.2,67.992
+CA-2017-146780,25-12-2017,30-12-2017,CV-12805,United States,New York City,New York,10035,East,Furniture,41.96,2,0,10.9096
+CA-2016-128867,03-11-2016,10-11-2016,CL-12565,United States,Urbandale,Iowa,50322,Central,Office Supplies,75.96,2,0,22.788
+CA-2016-128867,03-11-2016,10-11-2016,CL-12565,United States,Urbandale,Iowa,50322,Central,,27.24,6,0,13.3476
+CA-2014-115259,25-08-2014,27-08-2014,RC-19960,United States,Columbus,Ohio,43229,East,Office Supplies,40.096,14,0.2,14.5348
+CA-2014-115259,25-08-2014,27-08-2014,RC-19960,United States,Columbus,Ohio,43229,East,Office Supplies,4.72,2,0.2,1.652
+CA-2014-115259,25-08-2014,27-08-2014,RC-19960,United States,Columbus,Ohio,43229,East,Office Supplies,23.976,3,0.2,7.4925
+CA-2014-115259,25-08-2014,27-08-2014,RC-19960,United States,Columbus,Ohio,43229,East,Office Supplies,130.464,6,0.2,44.0316
+CA-2015-110457,02-03-2015,06-03-2015,DK-13090,United States,Seattle,Washington,98103,West,Furniture,787.53,3,0,165.3813
+US-2015-136476,05-04-2015,10-04-2015,GG-14650,United States,Bristol,Tennessee,37620,South,Office Supplies,157.794,1,0.7,-115.7156
+CA-2016-103730,12-06-2016,15-06-2016,SC-20725,United States,Wilmington,Delaware,19805,East,Furniture,47.04,3,0,18.3456
+CA-2016-103730,12-06-2016,15-06-2016,SC-20725,United States,Wilmington,Delaware,19805,East,Office Supplies,30.84,,0,13.878
+CA-2016-103730,12-06-2016,15-06-2016,SC-20725,United States,Wilmington,Delaware,19805,East,Office Supplies,226.56,6,0,63.4368
+CA-2016-103730,12-06-2016,15-06-2016,SC-20725,United States,Wilmington,Delaware,19805,East,Office Supplies,115.02,9,0,51.759
+CA-2016-103730,12-06-2016,15-06-2016,SC-20725,United States,Wilmington,Delaware,19805,East,Technology,68.04,7,0,19.7316
+US-2014-152030,26-12-2014,28-12-2014,AD-10180,United States,Houston,Texas,77041,Central,Furniture,600.558,3,0.3,-8.5794
+US-2014-134614,20-09-2014,25-09-2014,PF-19165,United States,Bloomington,Illinois,61701,Central,Furniture,617.7,6,0.5,-407.682
+US-2017-107272,05-11-2017,12-11-2017,TS-21610,United States,Phoenix,Arizona,85023,West,Office Supplies,2.388,2,0.7,-1.8308
+US-2017-107272,05-11-2017,12-11-2017,TS-21610,United States,Phoenix,Arizona,85023,West,Office Supplies,243.992,7,0.2,30.499
+US-2016-125969,06-11-2016,10-11-2016,LS-16975,United States,Los Angeles,California,90004,West,Furniture,81.424,2,0.2,-9.1602
+US-2016-125969,06-11-2016,10-11-2016,LS-16975,United States,Los Angeles,California,90004,West,Furniture,238.56,3,0,26.2416
+US-2017-164147,02-02-2017,05-02-2017,DW-13585,United States,Columbus,Ohio,43229,East,Technology,59.97,5,0.4,-11.994
+US-2017-164147,02-02-2017,05-02-2017,DW-13585,United States,Columbus,Ohio,43229,East,Office Supplies,78.304,2,0.2,29.364
+US-2017-164147,02-02-2017,05-02-2017,DW-13585,United States,Columbus,Ohio,43229,East,Office Supplies,21.456,9,0.2,6.9732
+CA-2016-145583,13-10-2016,19-10-2016,LC-16885,United States,Roseville,California,95661,West,Office Supplies,20.04,3,0,9.6192
+CA-2016-145583,13-10-2016,19-10-2016,LC-16885,United States,Roseville,California,95661,West,,35.44,1,0,16.6568
+CA-2016-145583,13-10-2016,19-10-2016,LC-16885,United States,Roseville,California,95661,West,Office Supplies,11.52,4,0,3.456
+CA-2016-145583,13-10-2016,19-10-2016,LC-16885,United States,Roseville,California,95661,West,Office Supplies,4.02,2,0,1.9698
+CA-2016-145583,13-10-2016,19-10-2016,LC-16885,United States,Roseville,California,95661,West,Office Supplies,76.176,3,0.2,26.6616
+CA-2016-145583,13-10-2016,19-10-2016,LC-16885,United States,Roseville,California,95661,West,Office Supplies,65.88,,0,18.4464
+CA-2016-145583,13-10-2016,19-10-2016,LC-16885,United States,Roseville,California,95661,West,Furniture,43.12,14,0,20.6976
+CA-2016-110366,05-09-2016,07-09-2016,JD-15895,United States,Philadelphia,Pennsylvania,19140,East,Furniture,82.8,2,0.2,10.35
+CA-2017-106180,18-09-2017,23-09-2017,SH-19975,United States,San Francisco,California,94122,West,Office Supplies,8.82,3,0,2.3814
+CA-2017-106180,18-09-2017,23-09-2017,SH-19975,United States,San Francisco,California,94122,West,Office Supplies,10.86,3,0,5.1042
+CA-2017-106180,18-09-2017,23-09-2017,SH-19975,United States,San Francisco,California,94122,West,Office Supplies,143.7,3,0,68.976
+CA-2017-155376,22-12-2017,27-12-2017,SG-20080,United States,Independence,Missouri,64055,Central,Office Supplies,839.43,3,0,218.2518
+CA-2015-110744,07-09-2015,12-09-2015,HA-14920,United States,Pasadena,California,91104,West,Office Supplies,671.93,7,0,20.1579
+CA-2014-110072,22-10-2014,28-10-2014,MG-17680,United States,Newark,Ohio,43055,East,Furniture,93.888,4,0.2,12.9096
+CA-2016-114489,05-12-2016,09-12-2016,JE-16165,United States,Franklin,Wisconsin,53132,Central,Technology,384.45,11,0,103.8015
+CA-2016-114489,05-12-2016,09-12-2016,JE-16165,United States,Franklin,Wisconsin,53132,Central,Technology,149.97,3,0,5.9988
+CA-2016-114489,05-12-2016,09-12-2016,JE-16165,United States,Franklin,Wisconsin,53132,Central,,1951.84,8,0,585.552
+CA-2016-114489,05-12-2016,09-12-2016,JE-16165,United States,Franklin,Wisconsin,53132,Central,Office Supplies,171.55,5,0,80.6285
+CA-2016-158834,13-03-2016,16-03-2016,TW-21025,United States,Scottsdale,Arizona,85254,West,Office Supplies,157.92,5,0.2,17.766
+CA-2016-158834,13-03-2016,16-03-2016,TW-21025,United States,Scottsdale,Arizona,85254,West,Technology,203.184,2,0.2,15.2388
+CA-2015-124919,31-05-2015,02-06-2015,SP-20650,United States,San Jose,California,95123,West,Office Supplies,58.38,,0,26.271
+CA-2015-124919,31-05-2015,02-06-2015,SP-20650,United States,San Jose,California,95123,West,Office Supplies,105.52,,0,48.5392
+CA-2015-124919,31-05-2015,02-06-2015,SP-20650,United States,San Jose,California,95123,West,Office Supplies,80.88,6,0,21.0288
+CA-2015-118948,28-05-2015,03-06-2015,NK-18490,United States,Seattle,Washington,98105,West,Office Supplies,6.63,3,0,1.7901
+CA-2014-104269,01-03-2014,06-03-2014,DB-13060,United States,Seattle,Washington,98115,West,Furniture,457.568,2,0.2,51.4764
+CA-2016-114104,20-11-2016,24-11-2016,NP-18670,United States,Edmond,Oklahoma,73034,Central,Office Supplies,14.62,2,0,6.8714
+CA-2016-114104,20-11-2016,24-11-2016,NP-18670,United States,Edmond,Oklahoma,73034,Central,Technology,944.93,7,0,236.2325
+CA-2016-162733,11-05-2016,12-05-2016,TT-21070,United States,Los Angeles,California,90045,West,Office Supplies,5.98,1,0,2.691
+CA-2015-119697,28-12-2015,31-12-2015,EM-13960,United States,Philadelphia,Pennsylvania,19134,East,,54.384,2,0.2,1.3596
+CA-2016-154508,16-11-2016,20-11-2016,RD-19900,United States,Carlsbad,New Mexico,88220,West,Office Supplies,28.4,5,0,13.348
+CA-2016-113817,07-11-2016,11-11-2016,MJ-17740,United States,Seattle,Washington,98115,West,Office Supplies,27.68,2,0.2,9.688
+CA-2014-139892,08-09-2014,12-09-2014,BM-11140,United States,San Antonio,Texas,78207,Central,Office Supplies,9.936,3,0.2,2.7324
+CA-2014-139892,08-09-2014,12-09-2014,BM-11140,United States,San Antonio,Texas,78207,Central,Technology,8159.952,8,0.4,-1359.992
+CA-2014-139892,08-09-2014,12-09-2014,BM-11140,United States,San Antonio,Texas,78207,Central,Office Supplies,275.928,3,0.2,-58.6347
+CA-2014-139892,08-09-2014,12-09-2014,BM-11140,United States,San Antonio,Texas,78207,Central,Furniture,1740.06,9,0.3,-24.858
+CA-2014-139892,08-09-2014,12-09-2014,BM-11140,United States,San Antonio,Texas,78207,Central,Office Supplies,32.064,6,0.2,6.8136
+CA-2014-139892,08-09-2014,12-09-2014,BM-11140,United States,San Antonio,Texas,78207,Central,Office Supplies,177.98,,0.8,-453.849
+CA-2014-139892,08-09-2014,12-09-2014,BM-11140,United States,San Antonio,Texas,78207,Central,Technology,143.976,,0.2,8.9985
+CA-2014-118962,05-08-2014,09-08-2014,CS-12130,United States,Los Angeles,California,90004,West,Office Supplies,20.94,,0,9.8418
+CA-2014-118962,05-08-2014,09-08-2014,CS-12130,United States,Los Angeles,California,90004,West,Office Supplies,110.96,2,0,53.2608
+CA-2014-118962,05-08-2014,09-08-2014,CS-12130,United States,Los Angeles,California,90004,West,Furniture,340.144,7,0.2,21.259
+US-2014-100853,14-09-2014,19-09-2014,JB-15400,United States,Chicago,Illinois,60623,Central,Office Supplies,52.448,2,0.8,-131.12
+US-2014-100853,14-09-2014,19-09-2014,JB-15400,United States,Chicago,Illinois,60623,Central,Office Supplies,20.16,4,0.2,6.552
+US-2017-152366,21-04-2017,25-04-2017,SJ-20500,United States,Houston,Texas,77036,Central,Office Supplies,97.264,4,0.8,-243.16
+US-2015-101511,21-11-2015,23-11-2015,JE-15745,United States,Newark,Ohio,43055,East,Furniture,396.802,7,0.3,-11.3372
+US-2015-101511,21-11-2015,23-11-2015,JE-15745,United States,Newark,Ohio,43055,East,Office Supplies,15.88,5,0.2,-3.7715
+CA-2015-137225,15-12-2015,19-12-2015,JK-15640,United States,New York City,New York,10009,East,,3.28,1,0,1.4104
+CA-2014-166191,05-12-2014,09-12-2014,DK-13150,United States,Decatur,Illinois,62521,Central,Office Supplies,24.816,2,0.2,1.8612
+CA-2014-166191,05-12-2014,09-12-2014,DK-13150,United States,Decatur,Illinois,62521,Central,Technology,408.744,7,0.2,76.6395
+CA-2014-158274,19-11-2014,24-11-2014,RM-19675,United States,Monroe,Louisiana,71203,South,Technology,503.96,4,0,131.0296
+CA-2014-158274,19-11-2014,24-11-2014,RM-19675,United States,Monroe,Louisiana,71203,South,Technology,149.95,5,0,41.986
+CA-2014-158274,19-11-2014,24-11-2014,RM-19675,United States,Monroe,Louisiana,71203,South,Technology,29,2,0,7.25
+CA-2016-105018,28-11-2016,02-12-2016,SK-19990,United States,Fairfield,Connecticut,6824,East,Office Supplies,7.16,2,0,3.4368
+CA-2014-123260,26-08-2014,30-08-2014,FM-14290,United States,Los Angeles,California,90032,West,Technology,176.8,8,0,22.984
+CA-2016-157000,16-07-2016,22-07-2016,AM-10360,United States,Grand Prairie,Texas,75051,Central,Office Supplies,37.224,3,0.2,3.7224
+CA-2016-157000,16-07-2016,22-07-2016,AM-10360,United States,Grand Prairie,Texas,75051,Central,Office Supplies,20.016,3,0.2,6.255
+CA-2015-102281,12-10-2015,14-10-2015,MP-17470,United States,New York City,New York,10035,East,Furniture,899.136,4,0.2,112.392
+CA-2015-102281,12-10-2015,14-10-2015,MP-17470,United States,New York City,New York,10035,East,Technology,71.76,6,0,20.0928
+CA-2015-102281,12-10-2015,14-10-2015,MP-17470,United States,New York City,New York,10035,East,,51.84,,0,24.8832
+CA-2015-102281,12-10-2015,14-10-2015,MP-17470,United States,New York City,New York,10035,East,Furniture,626.352,,0.2,46.9764
+CA-2015-102281,12-10-2015,14-10-2015,MP-17470,United States,New York City,New York,10035,East,Office Supplies,19.9,,0,6.567
+CA-2015-131457,31-10-2015,06-11-2015,MZ-17515,United States,Redlands,California,92374,West,Office Supplies,14.28,7,0,6.7116
+CA-2014-140004,21-03-2014,25-03-2014,CB-12025,United States,Hamilton,Ohio,45011,East,Office Supplies,7.408,2,0.2,1.2038
+CA-2014-140004,21-03-2014,25-03-2014,CB-12025,United States,Hamilton,Ohio,45011,East,Office Supplies,6.048,3,0.2,1.5876
+CA-2017-107720,06-11-2017,13-11-2017,VM-21685,United States,Westfield,New Jersey,7090,East,Office Supplies,46.26,3,0,12.0276
+US-2017-124303,06-07-2017,13-07-2017,FH-14365,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,2.946,2,0.7,-2.2586
+US-2017-124303,06-07-2017,13-07-2017,FH-14365,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,16.056,3,0.2,5.8203
+CA-2017-105074,24-06-2017,29-06-2017,MB-17305,United States,Akron,Ohio,44312,East,Office Supplies,21.744,3,0.2,6.795
+CA-2014-133690,03-08-2014,05-08-2014,BS-11755,United States,Denver,Colorado,80219,West,Furniture,218.75,2,0.5,-161.875
+CA-2014-133690,03-08-2014,05-08-2014,BS-11755,United States,Denver,Colorado,80219,West,Office Supplies,2.6,1,0.2,0.2925
+US-2017-116701,17-12-2017,21-12-2017,LC-17140,United States,Dallas,Texas,75220,Central,Office Supplies,66.284,2,0.8,-178.9668
+CA-2017-126382,03-06-2017,07-06-2017,HK-14890,United States,Franklin,Tennessee,37064,South,,35.168,7,0.2,9.6712
+CA-2017-108329,09-12-2017,14-12-2017,LE-16810,United States,Whittier,California,90604,West,Technology,444.768,4,0.2,44.4768
+CA-2017-135860,01-12-2017,07-12-2017,JH-15985,United States,Saginaw,Michigan,48601,Central,Office Supplies,83.92,4,0,5.8744
+CA-2017-135860,01-12-2017,07-12-2017,JH-15985,United States,Saginaw,Michigan,48601,Central,Technology,131.98,2,0,35.6346
+CA-2017-135860,01-12-2017,07-12-2017,JH-15985,United States,Saginaw,Michigan,48601,Central,Office Supplies,15.92,4,0,7.4824
+CA-2017-135860,01-12-2017,07-12-2017,JH-15985,United States,Saginaw,Michigan,48601,Central,Office Supplies,52.29,9,0,16.2099
+CA-2017-135860,01-12-2017,07-12-2017,JH-15985,United States,Saginaw,Michigan,48601,Central,Office Supplies,91.99,1,0,3.6796
+CA-2015-101007,09-02-2015,13-02-2015,MS-17980,United States,Dallas,Texas,75220,Central,Technology,20.8,2,0.2,6.5
+CA-2015-146262,02-01-2015,09-01-2015,VW-21775,United States,Medina,Ohio,44256,East,Office Supplies,23.68,2,0.2,8.88
+CA-2015-146262,02-01-2015,09-01-2015,VW-21775,United States,Medina,Ohio,44256,East,Furniture,452.45,5,0.5,-244.323
+CA-2015-146262,02-01-2015,09-01-2015,VW-21775,United States,Medina,Ohio,44256,East,Technology,62.982,3,0.4,-14.6958
+CA-2015-146262,02-01-2015,09-01-2015,VW-21775,United States,Medina,Ohio,44256,East,Technology,1188,9,0.7,-950.4
+CA-2015-146262,02-01-2015,09-01-2015,VW-21775,United States,Medina,Ohio,44256,East,Technology,89.584,2,0.2,4.4792
+CA-2016-130162,28-10-2016,01-11-2016,JH-15910,United States,Los Angeles,California,90032,West,Office Supplies,93.06,6,0,26.0568
+CA-2016-130162,28-10-2016,01-11-2016,JH-15910,United States,Los Angeles,California,90032,West,,302.376,3,0.2,22.6782
+CA-2015-169397,24-12-2015,27-12-2015,JB-15925,United States,Dublin,Ohio,43017,East,,5.584,2,0.2,1.8148
+CA-2015-169397,24-12-2015,27-12-2015,JB-15925,United States,Dublin,Ohio,43017,East,Office Supplies,22.704,6,0.2,8.2302
+CA-2015-169397,24-12-2015,27-12-2015,JB-15925,United States,Dublin,Ohio,43017,East,Office Supplies,19.776,4,0.7,-13.8432
+CA-2015-169397,24-12-2015,27-12-2015,JB-15925,United States,Dublin,Ohio,43017,East,Furniture,72.704,4,0.2,19.0848
+CA-2015-169397,24-12-2015,27-12-2015,JB-15925,United States,Dublin,Ohio,43017,East,Technology,479.988,4,0.7,-383.9904
+CA-2015-169397,24-12-2015,27-12-2015,JB-15925,United States,Dublin,Ohio,43017,East,Office Supplies,27.168,2,0.2,2.7168
+CA-2015-163055,09-08-2015,16-08-2015,DS-13180,United States,Detroit,Michigan,48227,Central,Office Supplies,2.2,1,0,0.968
+CA-2015-163055,09-08-2015,16-08-2015,DS-13180,United States,Detroit,Michigan,48227,Central,Furniture,622.45,5,0,136.939
+CA-2015-163055,09-08-2015,16-08-2015,DS-13180,United States,Detroit,Michigan,48227,Central,Office Supplies,21.98,1,0,0.2198
+US-2015-145436,28-02-2015,04-03-2015,VD-21670,United States,Columbia,Tennessee,38401,South,Furniture,161.568,2,0.2,-28.2744
+US-2015-145436,28-02-2015,04-03-2015,VD-21670,United States,Columbia,Tennessee,38401,South,Furniture,389.696,8,0.2,43.8408
+US-2014-156216,13-09-2014,17-09-2014,EA-14035,United States,Charlotte,North Carolina,28205,South,Office Supplies,18.648,,0.7,-12.432
+US-2017-100930,07-04-2017,12-04-2017,CS-12400,United States,Tampa,Florida,33614,South,Furniture,233.86,,0.45,-102.048
+US-2017-100930,07-04-2017,12-04-2017,CS-12400,United States,Tampa,Florida,33614,South,Furniture,620.6145,,0.45,-248.2458
+US-2017-100930,07-04-2017,12-04-2017,CS-12400,United States,Tampa,Florida,33614,South,Office Supplies,5.328,2,0.7,-3.552
+US-2017-100930,07-04-2017,12-04-2017,CS-12400,United States,Tampa,Florida,33614,South,,258.072,3,0.2,0
+US-2017-100930,07-04-2017,12-04-2017,CS-12400,United States,Tampa,Florida,33614,South,Technology,617.976,3,0.2,-7.7247
+CA-2017-160514,12-11-2017,16-11-2017,DB-13120,United States,Santa Clara,California,95051,West,Office Supplies,10.56,2,0,4.752
+CA-2016-157749,04-06-2016,09-06-2016,KL-16645,United States,Chicago,Illinois,60610,Central,Office Supplies,25.92,5,0.2,9.396
+CA-2016-157749,04-06-2016,09-06-2016,KL-16645,United States,Chicago,Illinois,60610,Central,Furniture,419.68,5,0.6,-356.728
+CA-2016-157749,04-06-2016,09-06-2016,KL-16645,United States,Chicago,Illinois,60610,Central,Furniture,11.688,3,0.6,-4.6752
+CA-2016-157749,04-06-2016,09-06-2016,KL-16645,United States,Chicago,Illinois,60610,Central,Technology,31.984,2,0.2,11.1944
+CA-2016-157749,04-06-2016,09-06-2016,KL-16645,United States,Chicago,Illinois,60610,Central,Furniture,177.225,5,0.5,-120.513
+CA-2016-157749,04-06-2016,09-06-2016,KL-16645,United States,Chicago,Illinois,60610,Central,Furniture,4.044,3,0.6,-2.8308
+CA-2016-157749,04-06-2016,09-06-2016,KL-16645,United States,Chicago,Illinois,60610,Central,Office Supplies,7.408,2,0.2,1.2038
+CA-2014-131926,01-06-2014,06-06-2014,DW-13480,United States,Lakeville,Minnesota,55044,Central,Furniture,2001.86,7,0,580.5394
+CA-2014-131926,01-06-2014,06-06-2014,DW-13480,United States,Lakeville,Minnesota,55044,Central,Office Supplies,166.72,2,0,41.68
+CA-2014-131926,01-06-2014,06-06-2014,DW-13480,United States,Lakeville,Minnesota,55044,Central,Office Supplies,47.88,6,0,23.94
+CA-2014-131926,01-06-2014,06-06-2014,DW-13480,United States,Lakeville,Minnesota,55044,Central,Office Supplies,1503.25,5,0,496.0725
+CA-2014-131926,01-06-2014,06-06-2014,DW-13480,United States,Lakeville,Minnesota,55044,Central,Office Supplies,25.92,4,0,12.4416
+CA-2016-154739,10-12-2016,15-12-2016,LH-17155,United States,San Francisco,California,94109,West,,321.568,2,0.2,28.1372
+CA-2016-145625,11-09-2016,17-09-2016,KC-16540,United States,San Diego,California,92037,West,Office Supplies,7.61,1,0,3.5767
+CA-2016-145625,11-09-2016,17-09-2016,KC-16540,United States,San Diego,California,92037,West,Technology,3347.37,13,0,636.0003
+CA-2016-146941,10-12-2016,13-12-2016,DL-13315,United States,New York City,New York,10024,East,,80.58,6,0,22.5624
+CA-2016-146941,10-12-2016,13-12-2016,DL-13315,United States,New York City,New York,10024,East,Office Supplies,361.92,4,0,162.864
+US-2015-159982,28-11-2015,04-12-2015,DR-12880,United States,Chicago,Illinois,60623,Central,Furniture,12.132,9,0.6,-8.4924
+US-2015-159982,28-11-2015,04-12-2015,DR-12880,United States,Chicago,Illinois,60623,Central,Office Supplies,82.368,2,0.2,-19.5624
+US-2015-159982,28-11-2015,04-12-2015,DR-12880,United States,Chicago,Illinois,60623,Central,Office Supplies,53.92,5,0.2,4.044
+US-2015-159982,28-11-2015,04-12-2015,DR-12880,United States,Chicago,Illinois,60623,Central,Technology,647.904,6,0.2,56.6916
+CA-2017-163139,01-12-2017,03-12-2017,CC-12670,United States,New York City,New York,10009,East,Technology,20.37,3,0,6.9258
+CA-2017-163139,01-12-2017,03-12-2017,CC-12670,United States,New York City,New York,10009,East,Office Supplies,221.55,3,0,6.6465
+CA-2017-163139,01-12-2017,03-12-2017,CC-12670,United States,New York City,New York,10009,East,Office Supplies,17.52,5,0.2,6.132
+US-2017-155299,08-06-2017,12-06-2017,Dl-13600,United States,Pasadena,Texas,77506,Central,Office Supplies,1.624,2,0.8,-4.466
+US-2014-106992,19-09-2014,21-09-2014,SB-20290,United States,Houston,Texas,77036,Central,Technology,3059.982,3,0.4,-509.997
+US-2014-106992,19-09-2014,21-09-2014,SB-20290,United States,Houston,Texas,77036,Central,Technology,2519.958,7,0.4,-251.9958
+CA-2016-125318,06-06-2016,13-06-2016,RC-19825,United States,Chicago,Illinois,60610,Central,Technology,328.224,4,0.2,28.7196
+CA-2015-155040,10-11-2015,15-11-2015,AH-10210,United States,Brentwood,California,94513,West,Technology,79.9,2,0,35.156
+CA-2017-136826,16-06-2017,20-06-2017,CB-12535,United States,Chapel Hill,North Carolina,27514,South,Office Supplies,14.016,3,0.2,4.7304
+CA-2016-111010,22-01-2016,28-01-2016,PG-18895,United States,Morristown,New Jersey,7960,East,Office Supplies,7.56,6,0,0.3024
+US-2017-145366,09-12-2017,13-12-2017,CA-12310,United States,Cincinnati,Ohio,45231,East,Office Supplies,37.208,1,0.2,-7.4416
+US-2017-145366,09-12-2017,13-12-2017,CA-12310,United States,Cincinnati,Ohio,45231,East,Office Supplies,57.576,3,0.2,21.591
+CA-2017-163979,28-12-2017,02-01-2018,KH-16690,United States,San Francisco,California,94110,West,,725.84,4,0,210.4936
+CA-2015-155334,30-07-2015,31-07-2015,HA-14920,United States,San Francisco,California,94109,West,Technology,209.93,7,0,92.3692
+CA-2015-155334,30-07-2015,31-07-2015,HA-14920,United States,San Francisco,California,94109,West,Furniture,5.28,3,0,2.3232
+CA-2015-155334,30-07-2015,31-07-2015,HA-14920,United States,San Francisco,California,94109,West,Office Supplies,10.92,3,0.2,4.095
+CA-2017-118136,16-09-2017,17-09-2017,BB-10990,United States,Inglewood,California,90301,West,Office Supplies,8.82,2,0,4.0572
+CA-2017-118136,16-09-2017,17-09-2017,BB-10990,United States,Inglewood,California,90301,West,Office Supplies,5.98,1,0,1.5548
+CA-2017-132976,13-10-2017,17-10-2017,AG-10495,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,11.648,2,0.2,4.0768
+CA-2017-132976,13-10-2017,17-10-2017,AG-10495,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,18.176,4,0.2,5.9072
+CA-2017-132976,13-10-2017,17-10-2017,AG-10495,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,59.712,6,0.2,5.9712
+CA-2017-132976,13-10-2017,17-10-2017,AG-10495,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,24.84,3,0.2,8.694
+US-2015-161991,26-09-2015,28-09-2015,SC-20725,United States,Houston,Texas,77070,Central,Office Supplies,2.08,5,0.8,-3.432
+US-2015-161991,26-09-2015,28-09-2015,SC-20725,United States,Houston,Texas,77070,Central,Technology,1114.4,7,0.2,376.11
+CA-2015-130890,02-11-2015,06-11-2015,JO-15280,United States,Los Angeles,California,90004,West,Furniture,1038.84,5,0.2,51.942
+CA-2015-130883,26-09-2015,02-10-2015,TB-21520,United States,Portland,Oregon,97206,West,Office Supplies,141.76,5,0.2,47.844
+CA-2015-130883,26-09-2015,02-10-2015,TB-21520,United States,Portland,Oregon,97206,West,Technology,239.8,5,0.2,47.96
+CA-2015-130883,26-09-2015,02-10-2015,TB-21520,United States,Portland,Oregon,97206,West,,31.104,6,0.2,10.8864
+CA-2016-112697,18-12-2016,20-12-2016,AH-10195,United States,Tamarac,Florida,33319,South,Office Supplies,254.058,7,0.7,-169.372
+CA-2016-112697,18-12-2016,20-12-2016,AH-10195,United States,Tamarac,Florida,33319,South,Office Supplies,194.528,2,0.2,24.316
+CA-2016-112697,18-12-2016,20-12-2016,AH-10195,United States,Tamarac,Florida,33319,South,Office Supplies,961.48,5,0.2,-204.3145
+CA-2016-110772,20-11-2016,24-11-2016,NZ-18565,United States,Columbus,Ohio,43229,East,Office Supplies,19.096,7,0.2,6.6836
+CA-2016-110772,20-11-2016,24-11-2016,NZ-18565,United States,Columbus,Ohio,43229,East,Office Supplies,18.496,8,0.2,6.2424
+CA-2016-110772,20-11-2016,24-11-2016,NZ-18565,United States,Columbus,Ohio,43229,East,Technology,255.984,2,0.2,54.3966
+CA-2016-110772,20-11-2016,24-11-2016,NZ-18565,United States,Columbus,Ohio,43229,East,Furniture,86.97,3,0.5,-48.7032
+CA-2014-111451,26-12-2014,28-12-2014,KL-16555,United States,Colorado Springs,Colorado,80906,West,Furniture,300.416,8,0.2,78.8592
+CA-2014-111451,26-12-2014,28-12-2014,KL-16555,United States,Colorado Springs,Colorado,80906,West,Furniture,230.352,3,0.2,20.1558
+CA-2014-111451,26-12-2014,28-12-2014,KL-16555,United States,Colorado Springs,Colorado,80906,West,Furniture,218.352,3,0.2,-24.5646
+CA-2014-111451,26-12-2014,28-12-2014,KL-16555,United States,Colorado Springs,Colorado,80906,West,Office Supplies,78.6,5,0.7,-62.88
+CA-2014-111451,26-12-2014,28-12-2014,KL-16555,United States,Colorado Springs,Colorado,80906,West,,27.552,3,0.2,9.2988
+CA-2016-142545,28-10-2016,03-11-2016,JD-15895,United States,Belleville,New Jersey,7109,East,Office Supplies,32.4,5,0,15.552
+CA-2016-142545,28-10-2016,03-11-2016,JD-15895,United States,Belleville,New Jersey,7109,East,Office Supplies,1082.48,8,0,10.8248
+CA-2016-142545,28-10-2016,03-11-2016,JD-15895,United States,Belleville,New Jersey,7109,East,Office Supplies,56.91,3,0,27.3168
+CA-2016-142545,28-10-2016,03-11-2016,JD-15895,United States,Belleville,New Jersey,7109,East,Furniture,77.6,4,0,38.024
+CA-2016-142545,28-10-2016,03-11-2016,JD-15895,United States,Belleville,New Jersey,7109,East,Office Supplies,14.28,1,0,6.5688
+US-2017-152380,19-11-2017,23-11-2017,JH-15910,United States,Chicago,Illinois,60623,Central,Furniture,219.075,3,0.5,-131.445
+CA-2015-144253,04-05-2015,09-05-2015,AS-10225,United States,New York City,New York,10024,East,Furniture,26.8,2,0,12.864
+CA-2014-130960,30-12-2014,04-01-2015,KB-16600,United States,Taylor,Michigan,48180,Central,Office Supplies,9.84,3,0,2.8536
+CA-2014-111003,01-06-2014,06-06-2014,CR-12625,United States,Lakewood,New Jersey,8701,East,Office Supplies,45.48,3,0,20.9208
+CA-2014-111003,01-06-2014,06-06-2014,CR-12625,United States,Lakewood,New Jersey,8701,East,Office Supplies,289.2,6,0,83.868
+CA-2017-126774,15-04-2017,17-04-2017,SH-20395,United States,Arlington,Virginia,22204,South,Office Supplies,4.89,1,0,2.0049
+CA-2016-142902,12-09-2016,14-09-2016,BP-11185,United States,Arvada,Colorado,80004,West,Furniture,15.136,4,0.2,3.5948
+CA-2016-142902,12-09-2016,14-09-2016,BP-11185,United States,Arvada,Colorado,80004,West,Furniture,466.768,2,0.2,52.5114
+CA-2016-142902,12-09-2016,14-09-2016,BP-11185,United States,Arvada,Colorado,80004,West,Furniture,15.232,1,0.2,1.7136
+CA-2016-142902,12-09-2016,14-09-2016,BP-11185,United States,Arvada,Colorado,80004,West,Office Supplies,6.264,3,0.2,2.0358
+CA-2014-120887,27-09-2014,03-10-2014,TS-21205,United States,Hackensack,New Jersey,7601,East,Furniture,87.54,3,0,37.6422
+CA-2014-167850,09-08-2014,16-08-2014,AG-10525,United States,Saint Petersburg,Florida,33710,South,Technology,178.384,2,0.2,22.298
+CA-2014-167850,09-08-2014,16-08-2014,AG-10525,United States,Saint Petersburg,Florida,33710,South,Office Supplies,15.552,3,0.2,5.4432
+CA-2014-164259,28-12-2014,30-12-2014,SP-20860,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,99.136,4,0.2,8.6744
+CA-2014-164973,04-11-2014,09-11-2014,NM-18445,United States,New York City,New York,10024,East,Furniture,135.882,1,0.1,24.1568
+CA-2014-164973,04-11-2014,09-11-2014,NM-18445,United States,New York City,New York,10024,East,Technology,3991.98,2,0,1995.99
+CA-2014-164973,04-11-2014,09-11-2014,NM-18445,United States,New York City,New York,10024,East,Technology,275.94,6,0,80.0226
+CA-2014-164973,04-11-2014,09-11-2014,NM-18445,United States,New York City,New York,10024,East,Technology,360,4,0,129.6
+CA-2014-164973,04-11-2014,09-11-2014,NM-18445,United States,New York City,New York,10024,East,,43.57,1,0,13.071
+CA-2014-156601,19-09-2014,24-09-2014,FA-14230,United States,Long Beach,California,90805,West,Office Supplies,7.16,2,0,3.58
+CA-2016-162138,23-04-2016,27-04-2016,GK-14620,United States,Hesperia,California,92345,West,Office Supplies,251.52,6,0.2,81.744
+CA-2016-162138,23-04-2016,27-04-2016,GK-14620,United States,Hesperia,California,92345,West,Technology,99.99,1,0,34.9965
+CA-2017-153339,03-11-2017,05-11-2017,DJ-13510,United States,Murfreesboro,Tennessee,37130,South,Furniture,15.992,1,0.2,0.9995
+US-2016-141544,30-08-2016,01-09-2016,PO-18850,United States,Philadelphia,Pennsylvania,19143,East,Technology,290.898,3,0.4,-67.8762
+US-2016-141544,30-08-2016,01-09-2016,PO-18850,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,54.224,2,0.2,3.389
+US-2016-141544,30-08-2016,01-09-2016,PO-18850,United States,Philadelphia,Pennsylvania,19143,East,Furniture,786.744,4,0.3,-258.5016
+US-2016-141544,30-08-2016,01-09-2016,PO-18850,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,100.24,10,0.2,33.831
+US-2016-141544,30-08-2016,01-09-2016,PO-18850,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,37.764,6,0.7,-27.6936
+US-2016-150147,25-04-2016,29-04-2016,JL-15850,United States,Philadelphia,Pennsylvania,19134,East,Technology,82.8,,0.4,-20.7
+US-2016-150147,25-04-2016,29-04-2016,JL-15850,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,20.724,2,0.7,-13.816
+US-2016-150147,25-04-2016,29-04-2016,JL-15850,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,4.896,3,0.7,-3.4272
+CA-2015-137946,01-09-2015,04-09-2015,DB-13615,United States,Los Angeles,California,90045,West,Office Supplies,4.752,1,0.2,1.6038
+CA-2015-137946,01-09-2015,04-09-2015,DB-13615,United States,Los Angeles,California,90045,West,Technology,959.984,2,0.2,335.9944
+CA-2015-137946,01-09-2015,04-09-2015,DB-13615,United States,Los Angeles,California,90045,West,,14.368,4,0.2,4.49
+CA-2014-129924,12-07-2014,17-07-2014,AC-10420,United States,San Francisco,California,94122,West,,7.712,2,0.2,2.7956
+CA-2014-129924,12-07-2014,17-07-2014,AC-10420,United States,San Francisco,California,94122,West,Furniture,698.352,3,0.2,-17.4588
+CA-2015-128167,22-06-2015,26-06-2015,KL-16645,United States,Layton,Utah,84041,West,Office Supplies,4.96,4,0,2.3312
+CA-2014-122336,13-04-2014,17-04-2014,JD-15895,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,17.856,4,0.2,1.116
+CA-2014-122336,13-04-2014,17-04-2014,JD-15895,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,509.97,10,0.7,-407.976
+CA-2014-122336,13-04-2014,17-04-2014,JD-15895,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,30.992,13,0.2,10.0724
+CA-2014-122336,13-04-2014,17-04-2014,JD-15895,United States,Philadelphia,Pennsylvania,19140,East,Technology,71.928,12,0.4,8.3916
+US-2015-120712,20-12-2015,24-12-2015,CS-12130,United States,Austin,Texas,78745,Central,Office Supplies,88.8,4,0.2,-2.22
+CA-2017-169901,15-06-2017,19-06-2017,CC-12550,United States,San Francisco,California,94122,West,Technology,47.976,3,0.2,4.7976
+CA-2017-134306,08-07-2017,12-07-2017,TD-20995,United States,Lowell,Massachusetts,1852,East,Office Supplies,7.56,,0,3.0996
+CA-2017-134306,08-07-2017,12-07-2017,TD-20995,United States,Lowell,Massachusetts,1852,East,Office Supplies,24.56,2,0,11.5432
+CA-2017-134306,08-07-2017,12-07-2017,TD-20995,United States,Lowell,Massachusetts,1852,East,Office Supplies,12.96,2,0,4.1472
+CA-2016-129714,01-09-2016,03-09-2016,AB-10060,United States,New York City,New York,10009,East,,6.79,1,0,2.3086
+CA-2016-129714,01-09-2016,03-09-2016,AB-10060,United States,New York City,New York,10009,East,,24.56,2,0,11.5432
+CA-2016-129714,01-09-2016,03-09-2016,AB-10060,United States,New York City,New York,10009,East,,3.048,1,0.2,1.0668
+CA-2016-129714,01-09-2016,03-09-2016,AB-10060,United States,New York City,New York,10009,East,Office Supplies,49.12,4,0,23.0864
+CA-2016-129714,01-09-2016,03-09-2016,AB-10060,United States,New York City,New York,10009,East,Office Supplies,4355.168,4,0.2,1415.4296
+CA-2016-138520,08-04-2016,13-04-2016,JL-15505,United States,New York City,New York,10035,East,Furniture,388.704,6,0.2,-4.8588
+CA-2016-138520,08-04-2016,13-04-2016,JL-15505,United States,New York City,New York,10035,East,Office Supplies,8.26,2,0,3.7996
+CA-2016-138520,08-04-2016,13-04-2016,JL-15505,United States,New York City,New York,10035,East,Office Supplies,17.04,4,0,6.9864
+CA-2016-138520,08-04-2016,13-04-2016,JL-15505,United States,New York City,New York,10035,East,Office Supplies,34.4,5,0,15.824
+CA-2016-130001,23-04-2016,28-04-2016,HK-14890,United States,Charlotte,North Carolina,28205,South,Office Supplies,36.24,5,0.2,11.325
+CA-2017-155698,08-03-2017,11-03-2017,VB-21745,United States,Columbus,Georgia,31907,South,Office Supplies,647.84,8,0,168.4384
+CA-2017-155698,08-03-2017,11-03-2017,VB-21745,United States,Columbus,Georgia,31907,South,Office Supplies,20.7,2,0,9.936
+CA-2017-144904,25-09-2017,01-10-2017,KW-16435,United States,New York City,New York,10009,East,Office Supplies,20.7,2,0,9.936
+CA-2017-144904,25-09-2017,01-10-2017,KW-16435,United States,New York City,New York,10009,East,Furniture,488.646,3,0.1,86.8704
+CA-2017-144904,25-09-2017,01-10-2017,KW-16435,United States,New York City,New York,10009,East,Office Supplies,5.56,2,0,1.4456
+CA-2017-144904,25-09-2017,01-10-2017,KW-16435,United States,New York City,New York,10009,East,Furniture,47.12,,0,20.7328
+CA-2014-123344,24-09-2014,29-09-2014,JD-16060,United States,San Francisco,California,94109,West,Office Supplies,211.96,4,0,8.4784
+CA-2016-155516,21-10-2016,21-10-2016,MK-17905,United States,Manchester,Connecticut,6040,East,Office Supplies,23.2,4,0,10.44
+CA-2016-155516,21-10-2016,21-10-2016,MK-17905,United States,Manchester,Connecticut,6040,East,Office Supplies,7.36,2,0,0.1472
+CA-2016-155516,21-10-2016,21-10-2016,MK-17905,United States,Manchester,Connecticut,6040,East,Office Supplies,104.79,7,0,29.3412
+CA-2016-155516,21-10-2016,21-10-2016,MK-17905,United States,Manchester,Connecticut,6040,East,Furniture,1043.92,4,0,271.4192
+CA-2017-104745,29-05-2017,04-06-2017,GT-14755,United States,Harlingen,Texas,78550,Central,Office Supplies,25.92,5,0.2,9.396
+CA-2017-104745,29-05-2017,04-06-2017,GT-14755,United States,Harlingen,Texas,78550,Central,,53.424,3,0.2,4.6746
+US-2014-119137,23-07-2014,27-07-2014,AG-10900,United States,Tucson,Arizona,85705,West,,8.16,5,0.7,-5.712
+US-2014-119137,23-07-2014,27-07-2014,AG-10900,United States,Tucson,Arizona,85705,West,Technology,1023.936,8,0.2,179.1888
+US-2014-119137,23-07-2014,27-07-2014,AG-10900,United States,Tucson,Arizona,85705,West,Office Supplies,9.24,1,0.2,0.924
+US-2014-119137,23-07-2014,27-07-2014,AG-10900,United States,Tucson,Arizona,85705,West,Technology,479.04,10,0.2,-29.94
+US-2016-134656,28-09-2016,01-10-2016,MM-18280,United States,Quincy,Illinois,62301,Central,Office Supplies,99.136,4,0.2,30.98
+US-2017-134481,27-08-2017,01-09-2017,AR-10405,United States,Franklin,Massachusetts,2038,East,Furniture,1488.424,7,0.3,-297.6848
+CA-2015-130792,28-04-2015,05-05-2015,RA-19915,United States,Houston,Texas,77095,Central,Office Supplies,8.652,3,0.8,-20.3322
+CA-2015-130792,28-04-2015,05-05-2015,RA-19915,United States,Houston,Texas,77095,Central,Office Supplies,23.832,3,0.2,2.6811
+CA-2015-130792,28-04-2015,05-05-2015,RA-19915,United States,Houston,Texas,77095,Central,Office Supplies,12.176,4,0.8,-18.8728
+CA-2016-134775,28-10-2016,29-10-2016,AS-10285,United States,San Francisco,California,94109,West,Office Supplies,50.96,7,0,25.48
+CA-2016-134775,28-10-2016,29-10-2016,AS-10285,United States,San Francisco,California,94109,West,Office Supplies,49.536,,0.2,17.3376
+CA-2015-125395,26-06-2015,29-06-2015,LA-16780,United States,Taylor,Michigan,48180,Central,Technology,41.9,2,0,8.799
+US-2015-168935,27-11-2015,02-12-2015,DO-13435,United States,Pembroke Pines,Florida,33024,South,Furniture,375.4575,3,0.45,-157.0095
+US-2015-168935,27-11-2015,02-12-2015,DO-13435,United States,Pembroke Pines,Florida,33024,South,Technology,83.976,3,0.2,-1.0497
+CA-2015-122756,03-12-2015,07-12-2015,DK-13225,United States,Philadelphia,Pennsylvania,19140,East,Technology,482.34,4,0.7,-337.638
+CA-2015-122756,03-12-2015,07-12-2015,DK-13225,United States,Philadelphia,Pennsylvania,19140,East,Furniture,2.96,1,0.2,0.777
+CA-2014-115973,24-11-2014,26-11-2014,NG-18430,United States,Cincinnati,Ohio,45231,East,,2.624,1,0.2,0.4264
+CA-2017-101798,11-12-2017,15-12-2017,MV-18190,United States,New York City,New York,10009,East,,23.36,4,0.2,7.884
+CA-2017-101798,11-12-2017,15-12-2017,MV-18190,United States,New York City,New York,10009,East,,39.98,2,0,13.5932
+US-2014-135972,21-09-2014,23-09-2014,JG-15115,United States,Des Moines,Washington,98198,West,Technology,246.384,2,0.2,27.7182
+US-2014-135972,21-09-2014,23-09-2014,JG-15115,United States,Des Moines,Washington,98198,West,Technology,1799.97,3,0,701.9883
+US-2014-134971,07-06-2014,10-06-2014,BP-11095,United States,Peoria,Illinois,61604,Central,Office Supplies,12.462,3,0.8,-20.5623
+CA-2017-102946,30-06-2017,05-07-2017,VP-21730,United States,Las Vegas,Nevada,89115,West,Office Supplies,75.792,3,0.2,25.5798
+CA-2017-165603,17-10-2017,19-10-2017,SS-20140,United States,Warwick,Rhode Island,2886,East,Office Supplies,49.96,2,0,9.4924
+CA-2017-165603,17-10-2017,19-10-2017,SS-20140,United States,Warwick,Rhode Island,2886,East,Office Supplies,12.96,2,0,6.2208
+CA-2015-122259,31-10-2015,04-11-2015,HP-14815,United States,Jackson,Michigan,49201,Central,Office Supplies,70.12,4,0,21.036
+CA-2016-108987,08-09-2016,10-09-2016,AG-10675,United States,Houston,Texas,77036,Central,Office Supplies,35.952,3,0.2,3.5952
+CA-2016-108987,08-09-2016,10-09-2016,AG-10675,United States,Houston,Texas,77036,Central,Furniture,2396.2656,4,0.32,-317.1528
+CA-2016-108987,08-09-2016,10-09-2016,AG-10675,United States,Houston,Texas,77036,Central,Office Supplies,131.136,4,0.2,-32.784
+CA-2016-108987,08-09-2016,10-09-2016,AG-10675,United States,Houston,Texas,77036,Central,Technology,57.584,2,0.2,0.7198
+CA-2014-113166,24-12-2014,26-12-2014,LF-17185,United States,Miami,Florida,33180,South,Office Supplies,9.568,2,0.2,3.4684
+CA-2014-155208,16-04-2014,20-04-2014,SP-20650,United States,Wilmington,North Carolina,28403,South,Office Supplies,39.072,6,0.2,9.768
+CA-2017-117933,24-12-2017,29-12-2017,RF-19840,United States,New York City,New York,10024,East,Office Supplies,35.91,3,0,9.6957
+CA-2017-117457,08-12-2017,12-12-2017,KH-16510,United States,San Francisco,California,94110,West,Technology,179.95,5,0,37.7895
+CA-2017-117457,08-12-2017,12-12-2017,KH-16510,United States,San Francisco,California,94110,West,Technology,1199.976,3,0.2,434.9913
+CA-2017-117457,08-12-2017,12-12-2017,KH-16510,United States,San Francisco,California,94110,West,Office Supplies,27.15,5,0,13.3035
+CA-2017-117457,08-12-2017,12-12-2017,KH-16510,United States,San Francisco,California,94110,West,Furniture,1004.024,7,0.2,-112.9527
+CA-2017-117457,08-12-2017,12-12-2017,KH-16510,United States,San Francisco,California,94110,West,Office Supplies,9.68,1,0,4.6464
+CA-2017-117457,08-12-2017,12-12-2017,KH-16510,United States,San Francisco,California,94110,West,Office Supplies,28.35,9,0,13.608
+CA-2017-117457,08-12-2017,12-12-2017,KH-16510,United States,San Francisco,California,94110,West,Office Supplies,55.98,1,0,27.4302
+CA-2017-117457,08-12-2017,12-12-2017,KH-16510,United States,San Francisco,California,94110,West,Furniture,1336.829,13,0.15,31.4548
+CA-2017-117457,08-12-2017,12-12-2017,KH-16510,United States,San Francisco,California,94110,West,Furniture,113.568,2,0.2,-18.4548
+CA-2017-142636,03-11-2017,07-11-2017,KC-16675,United States,Seattle,Washington,98105,West,Office Supplies,139.86,7,0,65.7342
+CA-2017-142636,03-11-2017,07-11-2017,KC-16675,United States,Seattle,Washington,98105,West,Furniture,307.136,4,0.2,26.8744
+CA-2017-122105,24-06-2017,28-06-2017,CJ-12010,United States,Huntington Beach,California,92646,West,Office Supplies,95.92,8,0,25.8984
+CA-2016-148796,14-04-2016,18-04-2016,PB-19150,United States,Los Angeles,California,90004,West,Furniture,383.8,5,0.2,38.38
+CA-2017-154816,06-11-2017,10-11-2017,VB-21745,United States,Richmond,Kentucky,40475,South,Office Supplies,5.78,,0,2.8322
+CA-2017-110478,04-03-2017,09-03-2017,SP-20860,United States,Los Angeles,California,90045,West,Office Supplies,9.32,4,0,2.7028
+CA-2017-110478,04-03-2017,09-03-2017,SP-20860,United States,Los Angeles,California,90045,West,Office Supplies,15.25,1,0,7.015
+CA-2014-142048,22-06-2014,25-06-2014,JE-15745,United States,Louisville,Colorado,80027,West,Technology,196.752,6,0.2,56.5662
+CA-2017-125388,19-10-2017,23-10-2017,MP-17965,United States,Lawrence,Massachusetts,1841,East,Furniture,56.56,4,0,14.7056
+CA-2017-125388,19-10-2017,23-10-2017,MP-17965,United States,Lawrence,Massachusetts,1841,East,Office Supplies,32.7,3,0,8.502
+CA-2017-155705,21-08-2017,23-08-2017,NF-18385,United States,Jackson,Mississippi,39212,South,,866.4,4,0,225.264
+CA-2017-149160,23-11-2017,26-11-2017,JM-15265,United States,Canton,Michigan,48187,Central,,28.4,2,0,11.076
+CA-2017-149160,23-11-2017,26-11-2017,JM-15265,United States,Canton,Michigan,48187,Central,,287.92,8,0,138.2016
+CA-2014-101476,12-09-2014,13-09-2014,SD-20485,United States,New Rochelle,New York,10801,East,Technology,69.99,1,0,30.0957
+CA-2017-152275,01-10-2017,08-10-2017,KH-16630,United States,San Antonio,Texas,78207,Central,Office Supplies,6.672,6,0.2,0.5004
+US-2016-123750,15-04-2016,21-04-2016,RB-19795,United States,Gastonia,North Carolina,28052,South,Office Supplies,189.588,2,0.7,-145.3508
+US-2016-123750,15-04-2016,21-04-2016,RB-19795,United States,Gastonia,North Carolina,28052,South,Technology,408.744,7,0.2,76.6395
+US-2016-123750,15-04-2016,21-04-2016,RB-19795,United States,Gastonia,North Carolina,28052,South,Technology,291.96,5,0.2,54.7425
+US-2016-123750,15-04-2016,21-04-2016,RB-19795,United States,Gastonia,North Carolina,28052,South,Office Supplies,4.768,2,0.2,-0.7748
+CA-2016-127369,06-06-2016,07-06-2016,DB-13060,United States,Lowell,Massachusetts,1852,East,Office Supplies,714.3,5,0,207.147
+US-2014-150574,19-12-2014,25-12-2014,MK-18160,United States,Jacksonville,Florida,32216,South,Office Supplies,4.812,2,0.7,-3.6892
+US-2014-150574,19-12-2014,25-12-2014,MK-18160,United States,Jacksonville,Florida,32216,South,Technology,247.8,5,0.2,-18.585
+CA-2016-147375,12-06-2016,14-06-2016,PO-19180,United States,Chicago,Illinois,60623,Central,Technology,1007.979,3,0.3,43.1991
+CA-2016-147375,12-06-2016,14-06-2016,PO-19180,United States,Chicago,Illinois,60623,Central,Office Supplies,313.488,7,0.2,113.6394
+CA-2017-130043,15-09-2017,19-09-2017,BB-11545,United States,Houston,Texas,77070,Central,Office Supplies,31.872,8,0.2,11.5536
+CA-2017-157252,20-01-2017,23-01-2017,CV-12805,United States,New York City,New York,10024,East,Furniture,207.846,,0.1,2.3094
+CA-2016-115756,05-09-2016,07-09-2016,PK-19075,United States,Detroit,Michigan,48227,Central,Furniture,12.22,,0,3.666
+CA-2016-115756,05-09-2016,07-09-2016,PK-19075,United States,Detroit,Michigan,48227,Central,Office Supplies,194.94,3,0,23.3928
+CA-2016-115756,05-09-2016,07-09-2016,PK-19075,United States,Detroit,Michigan,48227,Central,Office Supplies,70.95,3,0,20.5755
+CA-2016-115756,05-09-2016,07-09-2016,PK-19075,United States,Detroit,Michigan,48227,Central,Office Supplies,91.36,4,0,42.0256
+CA-2016-115756,05-09-2016,07-09-2016,PK-19075,United States,Detroit,Michigan,48227,Central,,242.94,3,0,29.1528
+CA-2016-115756,05-09-2016,07-09-2016,PK-19075,United States,Detroit,Michigan,48227,Central,,22.05,7,0,10.584
+CA-2017-154214,20-03-2017,25-03-2017,TB-21595,United States,Columbus,Indiana,47201,Central,,2.91,1,0,1.3677
+CA-2016-166674,01-04-2016,03-04-2016,RB-19360,United States,Auburn,New York,13021,East,Office Supplies,59.52,3,0,15.4752
+CA-2016-166674,01-04-2016,03-04-2016,RB-19360,United States,Auburn,New York,13021,East,Office Supplies,161.94,3,0,9.7164
+CA-2016-166674,01-04-2016,03-04-2016,RB-19360,United States,Auburn,New York,13021,East,Office Supplies,263.88,6,0,71.2476
+CA-2016-166674,01-04-2016,03-04-2016,RB-19360,United States,Auburn,New York,13021,East,Office Supplies,30.48,3,0,7.9248
+CA-2016-166674,01-04-2016,03-04-2016,RB-19360,United States,Auburn,New York,13021,East,Office Supplies,9.84,3,0,2.8536
+CA-2016-166674,01-04-2016,03-04-2016,RB-19360,United States,Auburn,New York,13021,East,Technology,35.12,4,0,9.1312
+CA-2017-147277,20-10-2017,24-10-2017,EB-13705,United States,Akron,Ohio,44312,East,Furniture,284.364,2,0.4,-75.8304
+CA-2017-147277,20-10-2017,24-10-2017,EB-13705,United States,Akron,Ohio,44312,East,Office Supplies,665.408,2,0.2,66.5408
+CA-2016-100153,13-12-2016,17-12-2016,KH-16630,United States,Norman,Oklahoma,73071,Central,Technology,63.88,4,0,24.9132
+US-2014-110674,12-02-2014,18-02-2014,SC-20095,United States,Concord,California,94521,West,Furniture,129.568,2,0.2,-24.294
+US-2016-157945,26-09-2016,01-10-2016,NF-18385,United States,Decatur,Illinois,62521,Central,Furniture,747.558,3,0.3,-96.1146
+US-2016-157945,26-09-2016,01-10-2016,NF-18385,United States,Decatur,Illinois,62521,Central,Office Supplies,8.928,2,0.2,3.348
+CA-2015-109638,15-12-2015,22-12-2015,JH-15985,United States,Seattle,Washington,98115,West,Office Supplies,103.92,4,0,36.372
+CA-2015-109638,15-12-2015,22-12-2015,JH-15985,United States,Seattle,Washington,98115,West,Technology,899.91,9,0,377.9622
+CA-2015-109638,15-12-2015,22-12-2015,JH-15985,United States,Seattle,Washington,98115,West,Office Supplies,51.312,3,0.2,18.6006
+CA-2016-109869,22-04-2016,29-04-2016,TN-21040,United States,Phoenix,Arizona,85023,West,Furniture,23.56,5,0.2,7.068
+CA-2016-109869,22-04-2016,29-04-2016,TN-21040,United States,Phoenix,Arizona,85023,West,Furniture,1272.63,6,0.5,-814.4832
+CA-2016-109869,22-04-2016,29-04-2016,TN-21040,United States,Phoenix,Arizona,85023,West,Office Supplies,28.485,5,0.7,-20.889
+CA-2016-109869,22-04-2016,29-04-2016,TN-21040,United States,Phoenix,Arizona,85023,West,Office Supplies,185.376,2,0.2,-34.758
+CA-2016-109869,22-04-2016,29-04-2016,TN-21040,United States,Phoenix,Arizona,85023,West,Office Supplies,78.272,2,0.2,5.8704
+US-2015-101399,17-01-2015,24-01-2015,JS-15940,United States,Park Ridge,Illinois,60068,Central,Furniture,254.744,7,0.6,-312.0614
+CA-2017-154907,31-03-2017,04-04-2017,DS-13180,United States,Amarillo,Texas,79109,Central,Furniture,205.3328,2,0.32,-36.2352
+US-2016-100419,16-12-2016,20-12-2016,CC-12670,United States,Chicago,Illinois,60610,Central,Office Supplies,4.788,3,0.8,-7.9002
+CA-2015-154144,20-12-2015,24-12-2015,MH-17785,United States,Lindenhurst,New York,11757,East,Office Supplies,55.48,1,0,26.6304
+CA-2014-144666,09-11-2014,11-11-2014,JP-15520,United States,San Francisco,California,94110,West,Office Supplies,340.92,3,0,3.4092
+CA-2014-144666,09-11-2014,11-11-2014,JP-15520,United States,San Francisco,California,94110,West,Furniture,222.666,2,0.15,10.4784
+CA-2014-144666,09-11-2014,11-11-2014,JP-15520,United States,San Francisco,California,94110,West,Technology,703.968,4,0.2,87.996
+CA-2014-144666,09-11-2014,11-11-2014,JP-15520,United States,San Francisco,California,94110,West,Office Supplies,92.52,6,0,24.9804
+CA-2014-144666,09-11-2014,11-11-2014,JP-15520,United States,San Francisco,California,94110,West,Office Supplies,62.65,7,0,28.819
+CA-2014-144666,09-11-2014,11-11-2014,JP-15520,United States,San Francisco,California,94110,West,Office Supplies,94.85,5,0,45.528
+CA-2016-103891,12-07-2016,19-07-2016,KH-16690,United States,Los Angeles,California,90008,West,Technology,95.76,6,0.2,7.182
+CA-2016-152632,27-10-2016,02-11-2016,JE-15475,United States,Troy,New York,12180,East,Furniture,40.2,3,0,19.296
+CA-2016-100790,26-06-2016,02-07-2016,JG-15805,United States,New York City,New York,10024,East,Office Supplies,14.7,5,0,6.615
+CA-2016-100790,26-06-2016,02-07-2016,JG-15805,United States,New York City,New York,10024,East,Office Supplies,704.25,5,0,84.51
+CA-2014-134677,06-10-2014,10-10-2014,XP-21865,United States,San Diego,California,92024,West,Technology,9.09,3,0,1.9089
+CA-2014-127691,22-07-2014,27-07-2014,EM-14065,United States,New York City,New York,10024,East,Office Supplies,5.96,2,0,1.6688
+CA-2014-127691,22-07-2014,27-07-2014,EM-14065,United States,New York City,New York,10024,East,Technology,159.98,2,0,57.5928
+CA-2017-140963,10-06-2017,13-06-2017,MT-18070,United States,Los Angeles,California,90045,West,Office Supplies,29.6,2,0,14.8
+CA-2017-140963,10-06-2017,13-06-2017,MT-18070,United States,Los Angeles,California,90045,West,Furniture,514.165,5,0.15,-30.245
+CA-2017-140963,10-06-2017,13-06-2017,MT-18070,United States,Los Angeles,California,90045,West,Technology,279.96,5,0.2,17.4975
+CA-2014-154627,29-10-2014,31-10-2014,SA-20830,United States,Chicago,Illinois,60610,Central,Technology,2735.952,6,0.2,341.994
+CA-2014-133753,09-06-2014,13-06-2014,CW-11905,United States,Huntsville,Texas,77340,Central,Technology,7.992,1,0.2,0.5994
+CA-2014-133753,09-06-2014,13-06-2014,CW-11905,United States,Huntsville,Texas,77340,Central,Technology,63.984,2,0.2,10.3974
+CA-2014-133753,09-06-2014,13-06-2014,CW-11905,United States,Huntsville,Texas,77340,Central,Office Supplies,70.368,2,0.2,6.1572
+CA-2014-113362,14-09-2014,19-09-2014,AJ-10960,United States,Rochester,New York,14609,East,Office Supplies,449.15,5,0,8.983
+CA-2014-113362,14-09-2014,19-09-2014,AJ-10960,United States,Rochester,New York,14609,East,Office Supplies,11.07,3,0,5.0922
+CA-2016-169166,09-05-2016,14-05-2016,SS-20590,United States,Seattle,Washington,98115,West,Technology,93.98,2,0,13.1572
+US-2016-120929,18-03-2016,21-03-2016,RO-19780,United States,Memphis,Tennessee,38109,South,Furniture,189.882,3,0.4,-94.941
+CA-2015-134782,27-12-2015,31-12-2015,MD-17350,United States,Fayetteville,Arkansas,72701,South,Office Supplies,105.42,2,0,51.6558
+CA-2016-126158,25-07-2016,31-07-2016,SC-20095,United States,Costa Mesa,California,92627,West,Office Supplies,119.616,8,0.2,40.3704
+CA-2016-126158,25-07-2016,31-07-2016,SC-20095,United States,Costa Mesa,California,92627,West,Furniture,255.76,4,0,81.8432
+CA-2016-126158,25-07-2016,31-07-2016,SC-20095,United States,Costa Mesa,California,92627,West,Furniture,241.568,2,0.2,18.1176
+CA-2016-126158,25-07-2016,31-07-2016,SC-20095,United States,Costa Mesa,California,92627,West,Furniture,69.3,9,0,22.869
+US-2016-105578,30-05-2016,04-06-2016,MY-17380,United States,Parker,Colorado,80134,West,Office Supplies,22.62,2,0.7,-15.08
+US-2016-105578,30-05-2016,04-06-2016,MY-17380,United States,Parker,Colorado,80134,West,Office Supplies,14.952,2,0.7,-11.9616
+US-2016-105578,30-05-2016,04-06-2016,MY-17380,United States,Parker,Colorado,80134,West,Furniture,801.568,2,0.2,50.098
+US-2016-105578,30-05-2016,04-06-2016,MY-17380,United States,Parker,Colorado,80134,West,Office Supplies,2.376,3,0.7,-1.9008
+US-2016-105578,30-05-2016,04-06-2016,MY-17380,United States,Parker,Colorado,80134,West,Office Supplies,32.792,1,0.2,11.8871
+CA-2017-134978,12-11-2017,15-11-2017,EB-13705,United States,New York City,New York,10024,East,Office Supplies,15.92,5,0.2,5.373
+CA-2015-145352,16-03-2015,22-03-2015,CM-12385,United States,Atlanta,Georgia,30318,South,Office Supplies,2.74,1,0,0.7398
+CA-2015-145352,16-03-2015,22-03-2015,CM-12385,United States,Atlanta,Georgia,30318,South,Office Supplies,8.34,3,0,2.1684
+CA-2015-145352,16-03-2015,22-03-2015,CM-12385,United States,Atlanta,Georgia,30318,South,Office Supplies,46.74,3,0,11.685
+CA-2015-145352,16-03-2015,22-03-2015,CM-12385,United States,Atlanta,Georgia,30318,South,Office Supplies,6354.95,5,0,3177.475
+CA-2017-135307,26-11-2017,27-11-2017,LS-17245,United States,Gladstone,Missouri,64118,Central,Furniture,126.3,3,0,40.416
+CA-2017-135307,26-11-2017,27-11-2017,LS-17245,United States,Gladstone,Missouri,64118,Central,Technology,38.04,2,0,12.1728
+CA-2016-106341,20-10-2016,23-10-2016,LF-17185,United States,Newark,Ohio,43055,East,Office Supplies,7.152,3,0.2,0.7152
+CA-2017-163405,21-12-2017,25-12-2017,BN-11515,United States,Los Angeles,California,90049,West,Office Supplies,6.63,3,0,1.7901
+CA-2017-163405,21-12-2017,25-12-2017,BN-11515,United States,Los Angeles,California,90049,West,,5.88,2,0,1.7052
+CA-2017-127432,22-01-2017,27-01-2017,AD-10180,United States,Great Falls,Montana,59405,West,,2999.95,5,0,1379.977
+CA-2017-127432,22-01-2017,27-01-2017,AD-10180,United States,Great Falls,Montana,59405,West,Office Supplies,51.45,3,0,13.8915
+CA-2017-127432,22-01-2017,27-01-2017,AD-10180,United States,Great Falls,Montana,59405,West,Office Supplies,11.96,2,0,5.382
+CA-2017-127432,22-01-2017,27-01-2017,AD-10180,United States,Great Falls,Montana,59405,West,Office Supplies,1126.02,3,0,56.301
+CA-2015-157812,22-03-2015,26-03-2015,DB-13210,United States,Houston,Texas,77041,Central,Technology,18.392,1,0.2,5.2877
+CA-2015-157812,22-03-2015,26-03-2015,DB-13210,United States,Houston,Texas,77041,Central,Office Supplies,129.568,2,0.2,-25.9136
+CA-2015-157812,22-03-2015,26-03-2015,DB-13210,United States,Houston,Texas,77041,Central,Office Supplies,14.112,9,0.8,-21.168
+CA-2017-145142,23-01-2017,25-01-2017,MC-17605,United States,Detroit,Michigan,48234,Central,Furniture,210.98,2,0,21.098
+US-2016-139486,21-05-2016,23-05-2016,LH-17155,United States,Los Angeles,California,90032,West,Technology,55.176,3,0.2,-12.4146
+US-2016-139486,21-05-2016,23-05-2016,LH-17155,United States,Los Angeles,California,90032,West,Technology,66.26,2,0,27.1666
+CA-2015-158792,26-12-2015,02-01-2016,BD-11605,United States,Lawrence,Massachusetts,1841,East,Office Supplies,22.2,5,0,10.434
+CA-2017-113558,21-10-2017,26-10-2017,PH-18790,United States,Lakeland,Florida,33801,South,Furniture,683.952,3,0.2,42.747
+CA-2017-113558,21-10-2017,26-10-2017,PH-18790,United States,Lakeland,Florida,33801,South,Furniture,45.696,3,0.2,5.1408
+US-2015-138303,03-09-2015,07-09-2015,MG-18145,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,36.336,3,0.2,-7.2672
+US-2015-138303,03-09-2015,07-09-2015,MG-18145,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,666.248,1,0.2,-149.9058
+US-2015-138303,03-09-2015,07-09-2015,MG-18145,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,52.512,6,0.2,19.692
+CA-2015-102848,07-11-2015,09-11-2015,KB-16240,United States,Los Angeles,California,90036,West,Furniture,190.72,1,0.2,11.92
+US-2017-129441,07-09-2017,11-09-2017,JC-15340,United States,Los Angeles,California,90032,West,Furniture,47.94,3,0,2.397
+CA-2016-168753,29-05-2016,01-06-2016,RL-19615,United States,Montgomery,Alabama,36116,South,Technology,979.95,5,0,274.386
+CA-2016-168753,29-05-2016,01-06-2016,RL-19615,United States,Montgomery,Alabama,36116,South,Office Supplies,22.75,5,0,11.375
+CA-2016-126613,10-07-2016,16-07-2016,AA-10375,United States,Mesa,Arizona,85204,West,Office Supplies,16.768,2,0.2,1.4672
+US-2017-122637,03-09-2017,08-09-2017,EP-13915,United States,Chicago,Illinois,60653,Central,Office Supplies,42.616,7,0.8,-68.1856
+CA-2015-147851,03-12-2015,08-12-2015,MP-17470,United States,New York City,New York,10009,East,Office Supplies,10.752,,0.2,3.36
+CA-2015-134894,07-12-2015,11-12-2015,DK-12985,United States,Henderson,Kentucky,42420,South,Office Supplies,152.94,,0,41.2938
+CA-2015-134894,07-12-2015,11-12-2015,DK-12985,United States,Henderson,Kentucky,42420,South,Furniture,283.92,4,0,70.98
+CA-2014-140795,01-02-2014,03-02-2014,BD-11500,United States,Green Bay,Wisconsin,54302,Central,Technology,468.9,6,0,206.316
+CA-2016-136924,14-07-2016,17-07-2016,ES-14080,United States,Tucson,Arizona,85705,West,Technology,380.864,8,0.2,38.0864
+US-2015-120161,18-12-2015,23-12-2015,LM-17065,United States,Springfield,Ohio,45503,East,Office Supplies,646.776,9,0.2,-145.5246
+CA-2014-103849,11-05-2014,16-05-2014,PG-18895,United States,Fort Worth,Texas,76106,Central,Technology,58.112,2,0.2,7.264
+CA-2014-103849,11-05-2014,16-05-2014,PG-18895,United States,Fort Worth,Texas,76106,Central,Technology,100.792,1,0.2,6.2995
+CA-2014-103849,11-05-2014,16-05-2014,PG-18895,United States,Fort Worth,Texas,76106,Central,Furniture,66.112,4,0.6,-84.2928
+CA-2017-162929,19-11-2017,22-11-2017,AS-10135,United States,New York City,New York,10035,East,Office Supplies,41.28,6,0.2,13.932
+CA-2017-162929,19-11-2017,22-11-2017,AS-10135,United States,New York City,New York,10035,East,Office Supplies,13.36,2,0,6.4128
+CA-2015-113173,15-11-2015,17-11-2015,DK-13225,United States,Chicago,Illinois,60653,Central,Office Supplies,250.272,9,0.2,15.642
+CA-2015-113173,15-11-2015,17-11-2015,DK-13225,United States,Chicago,Illinois,60653,Central,Office Supplies,11.364,3,0.8,-17.046
+CA-2015-113173,15-11-2015,17-11-2015,DK-13225,United States,Chicago,Illinois,60653,Central,Office Supplies,8.72,5,0.2,-1.744
+CA-2016-136406,15-04-2016,17-04-2016,BD-11320,United States,San Francisco,California,94110,West,Furniture,1121.568,2,0.2,0
+CA-2017-112774,11-09-2017,12-09-2017,RC-19960,United States,Jacksonville,Florida,32216,South,Furniture,34.504,1,0.2,6.0382
+CA-2017-101945,24-11-2017,28-11-2017,GT-14710,United States,Houston,Texas,77070,Central,Office Supplies,10.824,3,0.2,2.5707
+CA-2017-100650,29-06-2017,03-07-2017,DK-13225,United States,Anaheim,California,92804,West,Office Supplies,1295.78,2,0,310.9872
+CA-2014-155852,03-03-2014,07-03-2014,AJ-10945,United States,Wilmington,North Carolina,28403,South,Office Supplies,19.456,4,0.2,3.4048
+CA-2016-113243,10-06-2016,15-06-2016,OT-18730,United States,Los Angeles,California,90045,West,Office Supplies,20.7,2,0,9.936
+CA-2016-113243,10-06-2016,15-06-2016,OT-18730,United States,Los Angeles,California,90045,West,Furniture,1335.68,4,0.2,-217.048
+CA-2016-113243,10-06-2016,15-06-2016,OT-18730,United States,Los Angeles,California,90045,West,Office Supplies,32.4,5,0,15.552
+CA-2017-118731,20-11-2017,22-11-2017,LP-17080,United States,San Francisco,California,94110,West,Furniture,42.6,3,0,16.614
+CA-2017-118731,20-11-2017,22-11-2017,LP-17080,United States,San Francisco,California,94110,West,Office Supplies,84.056,7,0.2,27.3182
+CA-2014-145576,14-09-2014,18-09-2014,CA-12775,United States,Tampa,Florida,33614,South,Office Supplies,13,5,0.2,1.3
+CA-2014-145576,14-09-2014,18-09-2014,CA-12775,United States,Tampa,Florida,33614,South,Furniture,13.128,3,0.2,3.7743
+CA-2015-130736,07-12-2015,09-12-2015,JF-15490,United States,Seattle,Washington,98105,West,Office Supplies,3.96,2,0,0
+CA-2015-130736,07-12-2015,09-12-2015,JF-15490,United States,Seattle,Washington,98105,West,Office Supplies,2.61,1,0,1.2006
+CA-2017-137099,07-12-2017,10-12-2017,FP-14320,United States,Los Angeles,California,90008,West,Technology,374.376,3,0.2,46.797
+CA-2017-156951,01-10-2017,08-10-2017,EB-13840,United States,Seattle,Washington,98105,West,Office Supplies,91.84,8,0,45.0016
+CA-2017-156951,01-10-2017,08-10-2017,EB-13840,United States,Seattle,Washington,98105,West,Office Supplies,81.088,7,0.2,27.3672
+CA-2017-156951,01-10-2017,08-10-2017,EB-13840,United States,Seattle,Washington,98105,West,Office Supplies,19.44,3,0,9.3312
+CA-2017-156951,01-10-2017,08-10-2017,EB-13840,United States,Seattle,Washington,98105,West,Furniture,451.152,3,0.2,0
+CA-2017-164826,28-12-2017,04-01-2018,JF-15415,United States,New York City,New York,10024,East,Office Supplies,72.45,7,0,34.776
+CA-2017-164826,28-12-2017,04-01-2018,JF-15415,United States,New York City,New York,10024,East,Office Supplies,13.96,4,0,6.4216
+CA-2017-164826,28-12-2017,04-01-2018,JF-15415,United States,New York City,New York,10024,East,Office Supplies,33.264,7,0.2,11.2266
+CA-2017-164826,28-12-2017,04-01-2018,JF-15415,United States,New York City,New York,10024,East,Technology,14.85,3,0,4.0095
+CA-2016-127250,03-11-2016,07-11-2016,SF-20200,United States,Marysville,Washington,98270,West,Office Supplies,8.82,3,0,2.3814
+CA-2015-149713,18-09-2015,22-09-2015,TG-21640,United States,Long Beach,California,90805,West,Office Supplies,160.72,14,0,78.7528
+CA-2015-149713,18-09-2015,22-09-2015,TG-21640,United States,Long Beach,California,90805,West,Office Supplies,19.92,4,0,9.7608
+CA-2015-149713,18-09-2015,22-09-2015,TG-21640,United States,Long Beach,California,90805,West,Office Supplies,7.3,2,0,2.19
+CA-2017-118640,20-07-2017,26-07-2017,CS-11950,United States,Chicago,Illinois,60610,Central,Office Supplies,69.712,2,0.2,8.714
+CA-2017-118640,20-07-2017,26-07-2017,CS-11950,United States,Chicago,Illinois,60610,Central,Furniture,8.792,1,0.6,-5.7148
+CA-2015-132906,10-09-2015,14-09-2015,CC-12145,United States,Los Angeles,California,90004,West,Office Supplies,51.52,4,0,1.5456
+CA-2017-145233,01-12-2017,05-12-2017,DV-13465,United States,Denver,Colorado,80219,West,Technology,470.376,3,0.2,52.9173
+CA-2017-145233,01-12-2017,05-12-2017,DV-13465,United States,Denver,Colorado,80219,West,Technology,105.584,2,0.2,9.2386
+CA-2017-145233,01-12-2017,05-12-2017,DV-13465,United States,Denver,Colorado,80219,West,Office Supplies,31.152,3,0.2,3.5046
+CA-2017-145233,01-12-2017,05-12-2017,DV-13465,United States,Denver,Colorado,80219,West,Office Supplies,6.783,7,0.7,-4.7481
+CA-2017-145233,01-12-2017,05-12-2017,DV-13465,United States,Denver,Colorado,80219,West,Technology,406.368,4,0.2,30.4776
+CA-2015-128139,03-07-2015,09-07-2015,BD-11725,United States,Richmond,Kentucky,40475,South,Furniture,70.98,1,0,4.9686
+CA-2015-128139,03-07-2015,09-07-2015,BD-11725,United States,Richmond,Kentucky,40475,South,Office Supplies,294.93,3,0,144.5157
+US-2016-156986,20-03-2016,24-03-2016,ZC-21910,United States,Salem,Oregon,97301,West,Technology,84.784,2,0.2,-20.1362
+US-2016-156986,20-03-2016,24-03-2016,ZC-21910,United States,Salem,Oregon,97301,West,Office Supplies,20.736,4,0.2,7.2576
+US-2016-156986,20-03-2016,24-03-2016,ZC-21910,United States,Salem,Oregon,97301,West,Office Supplies,16.821,3,0.7,-12.8961
+US-2016-156986,20-03-2016,24-03-2016,ZC-21910,United States,Salem,Oregon,97301,West,Office Supplies,10.368,2,0.2,3.6288
+CA-2014-135405,09-01-2014,13-01-2014,MS-17830,United States,Laredo,Texas,78041,Central,Office Supplies,9.344,2,0.2,1.168
+CA-2014-135405,09-01-2014,13-01-2014,MS-17830,United States,Laredo,Texas,78041,Central,Technology,31.2,3,0.2,9.75
+CA-2014-131450,08-08-2014,15-08-2014,LR-16915,United States,San Diego,California,92024,West,Office Supplies,76.12,2,0,22.0748
+CA-2014-131450,08-08-2014,15-08-2014,LR-16915,United States,San Diego,California,92024,West,Technology,1199.976,3,0.2,434.9913
+CA-2014-131450,08-08-2014,15-08-2014,LR-16915,United States,San Diego,California,92024,West,Technology,445.96,5,0.2,55.745
+CA-2014-131450,08-08-2014,15-08-2014,LR-16915,United States,San Diego,California,92024,West,Furniture,327.76,8,0,91.7728
+CA-2016-120180,14-07-2016,16-07-2016,TP-21130,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,11.632,2,0.2,1.0178
+US-2016-100720,16-07-2016,21-07-2016,CK-12205,United States,Philadelphia,Pennsylvania,19120,East,Technology,143.982,3,0.4,-28.7964
+US-2016-100720,16-07-2016,21-07-2016,CK-12205,United States,Philadelphia,Pennsylvania,19120,East,Technology,494.376,4,0.4,-115.3544
+US-2016-100720,16-07-2016,21-07-2016,CK-12205,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,5.84,2,0.2,0.73
+CA-2014-149958,15-03-2014,19-03-2014,AS-10240,United States,Tampa,Florida,33614,South,Office Supplies,142.776,1,0.2,17.847
+CA-2014-149958,15-03-2014,19-03-2014,AS-10240,United States,Tampa,Florida,33614,South,Furniture,45.696,3,0.2,5.1408
+CA-2014-149958,15-03-2014,19-03-2014,AS-10240,United States,Tampa,Florida,33614,South,Office Supplies,7.218,3,0.7,-5.5338
+CA-2014-149958,15-03-2014,19-03-2014,AS-10240,United States,Tampa,Florida,33614,South,Office Supplies,43.188,4,0.7,-31.6712
+CA-2014-149958,15-03-2014,19-03-2014,AS-10240,United States,Tampa,Florida,33614,South,Office Supplies,131.904,3,0.2,47.8152
+US-2014-105767,23-05-2014,27-05-2014,AR-10510,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,3.282,2,0.7,-2.6256
+US-2014-105767,23-05-2014,27-05-2014,AR-10510,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,21.168,9,0.2,2.3814
+US-2014-105767,23-05-2014,27-05-2014,AR-10510,United States,Philadelphia,Pennsylvania,19134,East,Technology,55.188,2,0.4,-10.1178
+CA-2016-161816,28-04-2016,01-05-2016,NB-18655,United States,Dallas,Texas,75217,Central,Technology,369.576,3,0.2,41.5773
+CA-2016-161816,28-04-2016,01-05-2016,NB-18655,United States,Dallas,Texas,75217,Central,Office Supplies,15.712,4,0.2,5.6956
+CA-2016-121223,11-09-2016,13-09-2016,GD-14590,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,8.448,2,0.2,2.64
+CA-2016-121223,11-09-2016,13-09-2016,GD-14590,United States,Philadelphia,Pennsylvania,19143,East,Technology,728.946,9,0.4,-157.9383
+CA-2017-138611,14-11-2017,17-11-2017,CK-12595,United States,Grove City,Ohio,43123,East,Technology,119.94,10,0.4,15.992
+CA-2017-138611,14-11-2017,17-11-2017,CK-12595,United States,Grove City,Ohio,43123,East,Office Supplies,3.648,2,0.7,-2.7968
+CA-2017-117947,18-08-2017,23-08-2017,NG-18355,United States,New York City,New York,10011,East,Furniture,40.48,,0,15.7872
+CA-2017-117947,18-08-2017,23-08-2017,NG-18355,United States,New York City,New York,10011,East,Furniture,9.94,2,0,3.0814
+CA-2017-117947,18-08-2017,23-08-2017,NG-18355,United States,New York City,New York,10011,East,Office Supplies,107.424,9,0.2,33.57
+CA-2017-117947,18-08-2017,23-08-2017,NG-18355,United States,New York City,New York,10011,East,Technology,37.91,1,0,10.9939
+CA-2017-117947,18-08-2017,23-08-2017,NG-18355,United States,New York City,New York,10011,East,Furniture,88.02,3,0,27.2862
+US-2014-111171,26-12-2014,31-12-2014,CA-12265,United States,Chicago,Illinois,60610,Central,Office Supplies,8.69,5,0.8,-14.773
+CA-2015-138009,29-11-2015,03-12-2015,SF-20965,United States,Dearborn,Michigan,48126,Central,Furniture,301.96,2,0,87.5684
+CA-2015-138009,29-11-2015,03-12-2015,SF-20965,United States,Dearborn,Michigan,48126,Central,Office Supplies,555.21,5,0.1,178.901
+CA-2015-138009,29-11-2015,03-12-2015,SF-20965,United States,Dearborn,Michigan,48126,Central,Office Supplies,523.48,4,0,130.87
+CA-2015-138009,29-11-2015,03-12-2015,SF-20965,United States,Dearborn,Michigan,48126,Central,Office Supplies,161.82,9,0,46.9278
+CA-2017-163020,15-09-2017,19-09-2017,MO-17800,United States,New York City,New York,10009,East,Furniture,35.56,7,0,12.0904
+CA-2017-153787,19-05-2017,23-05-2017,AT-10735,United States,Seattle,Washington,98115,West,Office Supplies,97.16,2,0,28.1764
+CA-2017-133431,17-12-2017,21-12-2017,LC-17140,United States,San Francisco,California,94122,West,Office Supplies,15.24,5,0.2,5.1435
+CA-2017-133431,17-12-2017,21-12-2017,LC-17140,United States,San Francisco,California,94122,West,Office Supplies,13.23,3,0,6.0858
+US-2016-135720,11-12-2016,13-12-2016,FM-14380,United States,Aurora,Colorado,80013,West,Office Supplies,243.384,3,0.2,-51.7191
+US-2016-135720,11-12-2016,13-12-2016,FM-14380,United States,Aurora,Colorado,80013,West,Technology,119.8,5,0.2,29.95
+US-2016-135720,11-12-2016,13-12-2016,FM-14380,United States,Aurora,Colorado,80013,West,Technology,300.768,4,0.2,30.0768
+CA-2017-144694,24-09-2017,26-09-2017,BD-11605,United States,Miami,Florida,33180,South,Technology,17.88,3,0.2,2.4585
+CA-2017-144694,24-09-2017,26-09-2017,BD-11605,United States,Miami,Florida,33180,South,Office Supplies,235.944,3,0.2,85.5297
+CA-2015-168004,04-10-2015,09-10-2015,DJ-13420,United States,Warner Robins,Georgia,31088,South,Furniture,392.94,3,0,43.2234
+US-2016-123470,15-08-2016,21-08-2016,ME-17725,United States,Aurora,Colorado,80013,West,Office Supplies,18.882,3,0.7,-13.8468
+US-2016-123470,15-08-2016,21-08-2016,ME-17725,United States,Aurora,Colorado,80013,West,Office Supplies,122.328,,0.2,12.2328
+CA-2016-115917,20-05-2016,25-05-2016,RB-19465,United States,Vallejo,California,94591,West,Furniture,1049.2,5,0,272.792
+CA-2016-115917,20-05-2016,25-05-2016,RB-19465,United States,Vallejo,California,94591,West,Office Supplies,15.424,4,0.2,5.0128
+CA-2016-147067,18-12-2016,22-12-2016,JD-16150,United States,Minneapolis,Minnesota,55407,Central,Furniture,18.84,3,0,6.0288
+CA-2017-167913,30-07-2017,03-08-2017,JL-15835,United States,Mission Viejo,California,92691,West,Office Supplies,330.4,2,0,85.904
+CA-2017-167913,30-07-2017,03-08-2017,JL-15835,United States,Mission Viejo,California,92691,West,Office Supplies,26.25,7,0,12.6
+CA-2017-106103,10-06-2017,15-06-2017,SC-20305,United States,Rochester Hills,Michigan,48307,Central,Technology,132.52,4,0,54.3332
+US-2017-127719,21-07-2017,25-07-2017,TW-21025,United States,Plainfield,New Jersey,7060,East,Office Supplies,6.48,1,0,3.1752
+CA-2017-126221,30-12-2017,05-01-2018,CC-12430,United States,Columbus,Indiana,47201,Central,Office Supplies,209.3,2,0,56.511
+CA-2016-103947,01-04-2016,08-04-2016,BB-10990,United States,Sierra Vista,Arizona,85635,West,Office Supplies,31.56,5,0.2,9.8625
+CA-2016-103947,01-04-2016,08-04-2016,BB-10990,United States,Sierra Vista,Arizona,85635,West,Office Supplies,30.144,2,0.2,3.0144
+CA-2016-160745,11-12-2016,16-12-2016,AR-10825,United States,Vancouver,Washington,98661,West,Furniture,14.8,4,0,6.068
+CA-2016-160745,11-12-2016,16-12-2016,AR-10825,United States,Vancouver,Washington,98661,West,Technology,302.376,3,0.2,22.6782
+CA-2016-160745,11-12-2016,16-12-2016,AR-10825,United States,Vancouver,Washington,98661,West,Technology,316,4,0,31.6
+CA-2016-132661,23-10-2016,29-10-2016,SR-20740,United States,New York City,New York,10024,East,Office Supplies,379.4,10,0,178.318
+CA-2017-140844,19-06-2017,23-06-2017,AR-10405,United States,New York City,New York,10035,East,Office Supplies,97.82,2,0,45.9754
+CA-2017-140844,19-06-2017,23-06-2017,AR-10405,United States,New York City,New York,10035,East,Technology,103.12,8,0,10.312
+CA-2016-137239,22-08-2016,28-08-2016,CR-12730,United States,Columbus,Ohio,43229,East,Office Supplies,113.552,2,0.2,8.5164
+CA-2016-137239,22-08-2016,28-08-2016,CR-12730,United States,Columbus,Ohio,43229,East,Office Supplies,3.318,,0.7,-2.6544
+CA-2016-137239,22-08-2016,28-08-2016,CR-12730,United States,Columbus,Ohio,43229,East,Office Supplies,134.288,2,0.2,45.3222
+US-2016-156097,19-09-2016,19-09-2016,EH-14125,United States,Aurora,Illinois,60505,Central,Furniture,701.372,2,0.3,-50.098
+US-2016-156097,19-09-2016,19-09-2016,EH-14125,United States,Aurora,Illinois,60505,Central,Office Supplies,2.308,2,0.8,-3.462
+CA-2015-146563,24-08-2015,28-08-2015,CB-12025,United States,Arlington,Texas,76017,Central,Office Supplies,999.432,7,0.2,124.929
+CA-2015-146563,24-08-2015,28-08-2015,CB-12025,United States,Arlington,Texas,76017,Central,Office Supplies,724.08,14,0.2,-135.765
+CA-2015-146563,24-08-2015,28-08-2015,CB-12025,United States,Arlington,Texas,76017,Central,Furniture,918.785,5,0.3,-118.1295
+CA-2015-146563,24-08-2015,28-08-2015,CB-12025,United States,Arlington,Texas,76017,Central,Office Supplies,2.724,3,0.8,-4.2222
+CA-2016-123666,26-03-2016,30-03-2016,SP-20545,United States,New York City,New York,10011,East,Office Supplies,459.95,5,0,18.398
+CA-2016-143308,04-11-2016,04-11-2016,RC-19825,United States,Louisville,Kentucky,40214,South,Office Supplies,10.74,3,0,5.2626
+CA-2017-132682,08-06-2017,10-06-2017,TH-21235,United States,Dallas,Texas,75081,Central,Office Supplies,23.76,3,0.2,2.079
+CA-2017-132682,08-06-2017,10-06-2017,TH-21235,United States,Dallas,Texas,75081,Central,Office Supplies,85.056,3,0.2,28.7064
+CA-2017-132682,08-06-2017,10-06-2017,TH-21235,United States,Dallas,Texas,75081,Central,Technology,381.576,3,0.2,28.6182
+CA-2014-156314,24-12-2014,26-12-2014,RP-19390,United States,Cleveland,Ohio,44105,East,Furniture,30.36,5,0.2,8.7285
+US-2017-106663,09-06-2017,13-06-2017,MO-17800,United States,Chicago,Illinois,60653,Central,Furniture,23.976,3,0.6,-14.3856
+US-2017-106663,09-06-2017,13-06-2017,MO-17800,United States,Chicago,Illinois,60653,Central,Furniture,108.925,,0.5,-71.8905
+US-2017-106663,09-06-2017,13-06-2017,MO-17800,United States,Chicago,Illinois,60653,Central,Office Supplies,36.352,8,0.2,11.36
+CA-2017-111178,15-06-2017,22-06-2017,TD-20995,United States,Quincy,Illinois,62301,Central,Office Supplies,19.56,5,0.2,1.7115
+CA-2017-130351,05-12-2017,08-12-2017,RB-19570,United States,Columbus,Indiana,47201,Central,Office Supplies,61.44,3,0,16.5888
+CA-2017-130351,05-12-2017,08-12-2017,RB-19570,United States,Columbus,Indiana,47201,Central,Office Supplies,38.9,5,0,17.505
+CA-2017-130351,05-12-2017,08-12-2017,RB-19570,United States,Columbus,Indiana,47201,Central,Technology,99.39,3,0,40.7499
+US-2017-119438,18-03-2017,23-03-2017,CD-11980,United States,Tyler,Texas,75701,Central,Office Supplies,2.688,3,0.8,-7.392
+US-2017-119438,18-03-2017,23-03-2017,CD-11980,United States,Tyler,Texas,75701,Central,Technology,27.816,3,0.2,4.5201
+US-2017-119438,18-03-2017,23-03-2017,CD-11980,United States,Tyler,Texas,75701,Central,Furniture,82.524,3,0.6,-41.262
+US-2017-119438,18-03-2017,23-03-2017,CD-11980,United States,Tyler,Texas,75701,Central,Office Supplies,182.994,3,0.8,-320.2395
+CA-2016-164511,19-11-2016,24-11-2016,DJ-13630,United States,New York City,New York,10024,East,Office Supplies,14.352,3,0.2,4.6644
+CA-2016-164511,19-11-2016,24-11-2016,DJ-13630,United States,New York City,New York,10024,East,Office Supplies,64.96,2,0,2.5984
+CA-2016-164511,19-11-2016,24-11-2016,DJ-13630,United States,New York City,New York,10024,East,Office Supplies,68.6,4,0,18.522
+US-2017-168116,04-11-2017,04-11-2017,GT-14635,United States,Burlington,North Carolina,27217,South,Technology,7999.98,4,0.5,-3839.9904
+US-2017-168116,04-11-2017,04-11-2017,GT-14635,United States,Burlington,North Carolina,27217,South,Office Supplies,167.44,2,0.2,14.651
+CA-2014-157784,05-07-2014,08-07-2014,MC-17845,United States,Jackson,Mississippi,39212,South,Technology,479.97,3,0,163.1898
+CA-2014-157784,05-07-2014,08-07-2014,MC-17845,United States,Jackson,Mississippi,39212,South,Office Supplies,14.62,2,0,6.8714
+CA-2014-157784,05-07-2014,08-07-2014,MC-17845,United States,Jackson,Mississippi,39212,South,Office Supplies,19.44,3,0,9.3312
+CA-2017-161480,25-12-2017,29-12-2017,RA-19285,United States,New York City,New York,10035,East,Furniture,191.984,,0.2,4.7996
+US-2014-117135,21-06-2014,23-06-2014,NP-18325,United States,Waynesboro,Virginia,22980,South,Furniture,104.01,1,0,14.5614
+US-2014-117135,21-06-2014,23-06-2014,NP-18325,United States,Waynesboro,Virginia,22980,South,Technology,284.82,1,0,74.0532
+US-2014-117135,21-06-2014,23-06-2014,NP-18325,United States,Waynesboro,Virginia,22980,South,Office Supplies,36.84,3,0,10.3152
+CA-2015-131534,28-03-2015,02-04-2015,AB-10165,United States,Los Angeles,California,90036,West,Technology,166.24,1,0,24.936
+CA-2015-131534,28-03-2015,02-04-2015,AB-10165,United States,Los Angeles,California,90036,West,Office Supplies,33.4,5,0,16.032
+CA-2015-119291,14-05-2015,17-05-2015,JO-15550,United States,Chester,Pennsylvania,19013,East,Office Supplies,198.272,8,0.2,17.3488
+CA-2015-119291,14-05-2015,17-05-2015,JO-15550,United States,Chester,Pennsylvania,19013,East,Office Supplies,47.36,4,0.2,17.76
+CA-2015-119291,14-05-2015,17-05-2015,JO-15550,United States,Chester,Pennsylvania,19013,East,Office Supplies,200.984,7,0.2,62.8075
+CA-2015-119291,14-05-2015,17-05-2015,JO-15550,United States,Chester,Pennsylvania,19013,East,Office Supplies,97.696,4,0.2,31.7512
+CA-2015-119291,14-05-2015,17-05-2015,JO-15550,United States,Chester,Pennsylvania,19013,East,Office Supplies,2.696,1,0.2,0.8088
+CA-2015-119291,14-05-2015,17-05-2015,JO-15550,United States,Chester,Pennsylvania,19013,East,Office Supplies,18.588,2,0.7,-13.6312
+CA-2015-119291,14-05-2015,17-05-2015,JO-15550,United States,Chester,Pennsylvania,19013,East,Office Supplies,4.896,3,0.7,-3.4272
+CA-2017-114552,02-09-2017,08-09-2017,Dl-13600,United States,Cleveland,Ohio,44105,East,Furniture,15.072,3,0.2,4.1448
+CA-2016-163755,04-11-2016,08-11-2016,AS-10285,United States,Seattle,Washington,98103,West,Furniture,209.88,3,0,35.6796
+CA-2015-142027,09-04-2015,14-04-2015,JK-15370,United States,Long Beach,California,90805,West,Furniture,369.912,,0.2,-13.8717
+CA-2014-138527,12-09-2014,17-09-2014,BN-11470,United States,Cary,North Carolina,27511,South,Office Supplies,10.368,2,0.2,3.6288
+CA-2014-138527,12-09-2014,17-09-2014,BN-11470,United States,Cary,North Carolina,27511,South,Office Supplies,166.84,5,0.2,18.7695
+CA-2014-138527,12-09-2014,17-09-2014,BN-11470,United States,Cary,North Carolina,27511,South,Technology,15.216,1,0.2,2.2824
+CA-2014-112158,02-12-2014,04-12-2014,DP-13165,United States,New York City,New York,10035,East,Technology,119.96,4,0,52.7824
+CA-2014-112158,02-12-2014,04-12-2014,DP-13165,United States,New York City,New York,10035,East,Furniture,883.92,5,0.2,-110.49
+CA-2014-112158,02-12-2014,04-12-2014,DP-13165,United States,New York City,New York,10035,East,Office Supplies,46.72,8,0.2,15.768
+CA-2014-113887,05-04-2014,07-04-2014,TH-21550,United States,New York City,New York,10035,East,Office Supplies,55.48,1,0,26.6304
+CA-2017-146136,03-09-2017,07-09-2017,AP-10915,United States,Palm Coast,Florida,32137,South,Office Supplies,24.448,4,0.2,8.8624
+US-2017-100048,19-05-2017,24-05-2017,RS-19765,United States,Mount Vernon,New York,10550,East,Office Supplies,281.34,6,0,109.7226
+US-2017-100048,19-05-2017,24-05-2017,RS-19765,United States,Mount Vernon,New York,10550,East,Technology,307.98,2,0,89.3142
+US-2017-100048,19-05-2017,24-05-2017,RS-19765,United States,Mount Vernon,New York,10550,East,Technology,299.97,3,0,113.9886
+CA-2014-153150,01-07-2014,06-07-2014,Dl-13600,United States,Seattle,Washington,98105,West,Office Supplies,19.92,5,0.2,6.972
+CA-2014-130092,11-01-2014,14-01-2014,SV-20365,United States,Dover,Delaware,19901,East,Furniture,9.94,2,0,3.0814
+CA-2017-108910,24-09-2017,29-09-2017,KC-16540,United States,Newark,Ohio,43055,East,Furniture,103.056,3,0.2,24.4758
+CA-2014-104472,02-06-2014,07-06-2014,CK-12325,United States,Orem,Utah,84057,West,Office Supplies,59.808,3,0.2,19.4376
+CA-2014-104472,02-06-2014,07-06-2014,CK-12325,United States,Orem,Utah,84057,West,Furniture,73.32,6,0,21.996
+CA-2016-112942,13-02-2016,18-02-2016,RD-19810,United States,Los Angeles,California,90045,West,Office Supplies,146.82,3,0,73.41
+CA-2016-142335,15-12-2016,19-12-2016,MP-17965,United States,Detroit,Michigan,48205,Central,Furniture,1652.94,,0,231.4116
+CA-2016-142335,15-12-2016,19-12-2016,MP-17965,United States,Detroit,Michigan,48205,Central,Office Supplies,296.37,3,0,80.0199
+CA-2014-117429,07-10-2014,13-10-2014,MR-17545,United States,Philadelphia,Pennsylvania,19140,East,Furniture,129.92,5,0.2,21.112
+CA-2016-114713,07-07-2016,12-07-2016,SC-20695,United States,Hialeah,Florida,33012,South,Office Supplies,45.584,7,0.2,5.1282
+CA-2017-144113,16-09-2017,20-09-2017,JF-15355,United States,Austin,Texas,78745,Central,Office Supplies,17.568,2,0.2,6.3684
+CA-2017-144113,16-09-2017,20-09-2017,JF-15355,United States,Austin,Texas,78745,Central,Technology,55.992,1,0.2,5.5992
+US-2016-150861,03-12-2016,06-12-2016,EG-13900,United States,Oceanside,New York,11572,East,Office Supplies,182.72,8,0,84.0512
+US-2016-150861,03-12-2016,06-12-2016,EG-13900,United States,Oceanside,New York,11572,East,Furniture,400.032,2,0.4,-153.3456
+US-2016-150861,03-12-2016,06-12-2016,EG-13900,United States,Oceanside,New York,11572,East,Office Supplies,33.63,3,0,10.089
+US-2016-150861,03-12-2016,06-12-2016,EG-13900,United States,Oceanside,New York,11572,East,Furniture,542.646,3,0.1,102.4998
+US-2016-150861,03-12-2016,06-12-2016,EG-13900,United States,Oceanside,New York,11572,East,Office Supplies,6.3,2,0,3.024
+CA-2017-131954,21-01-2017,25-01-2017,DS-13030,United States,Seattle,Washington,98115,West,Office Supplies,242.94,3,0,9.7176
+CA-2017-131954,21-01-2017,25-01-2017,DS-13030,United States,Seattle,Washington,98115,West,Technology,179.97,3,0,86.3856
+CA-2017-131954,21-01-2017,25-01-2017,DS-13030,United States,Seattle,Washington,98115,West,Office Supplies,99.696,6,0.2,33.6474
+CA-2017-131954,21-01-2017,25-01-2017,DS-13030,United States,Seattle,Washington,98115,West,Office Supplies,27.936,4,0.2,9.4284
+CA-2017-131954,21-01-2017,25-01-2017,DS-13030,United States,Seattle,Washington,98115,West,Furniture,84.98,1,0,18.6956
+CA-2017-131954,21-01-2017,25-01-2017,DS-13030,United States,Seattle,Washington,98115,West,Office Supplies,18.72,5,0.2,6.552
+CA-2014-132500,08-09-2014,12-09-2014,GZ-14470,United States,San Francisco,California,94110,West,Technology,49.98,2,0,8.4966
+CA-2014-112326,04-01-2014,08-01-2014,PO-19195,United States,Naperville,Illinois,60540,Central,Office Supplies,11.784,3,0.2,4.2717
+CA-2014-112326,04-01-2014,08-01-2014,PO-19195,United States,Naperville,Illinois,60540,Central,Office Supplies,272.736,3,0.2,-64.7748
+CA-2014-112326,04-01-2014,08-01-2014,PO-19195,United States,Naperville,Illinois,60540,Central,Office Supplies,3.54,2,0.8,-5.487
+US-2016-146710,27-08-2016,01-09-2016,SS-20875,United States,Dallas,Texas,75220,Central,Office Supplies,51.52,,0.2,-10.948
+US-2016-146710,27-08-2016,01-09-2016,SS-20875,United States,Dallas,Texas,75220,Central,Office Supplies,3.528,1,0.2,1.1466
+US-2016-146710,27-08-2016,01-09-2016,SS-20875,United States,Dallas,Texas,75220,Central,Office Supplies,4.624,1,0.2,1.6762
+US-2016-146710,27-08-2016,01-09-2016,SS-20875,United States,Dallas,Texas,75220,Central,Office Supplies,55.168,4,0.2,6.2064
+CA-2014-124429,27-05-2014,27-05-2014,MH-17785,United States,San Diego,California,92105,West,Furniture,567.12,10,0.2,-28.356
+CA-2014-124429,27-05-2014,27-05-2014,MH-17785,United States,San Diego,California,92105,West,Office Supplies,359.32,4,0,7.1864
+CA-2016-150889,20-03-2016,22-03-2016,PB-19105,United States,Evanston,Illinois,60201,Central,Technology,11.992,1,0.2,0.8994
+CA-2017-126074,02-10-2017,06-10-2017,RF-19735,United States,Trenton,Michigan,48183,Central,Office Supplies,58.05,3,0,26.703
+CA-2017-126074,02-10-2017,06-10-2017,RF-19735,United States,Trenton,Michigan,48183,Central,Furniture,157.74,11,0,56.7864
+CA-2017-126074,02-10-2017,06-10-2017,RF-19735,United States,Trenton,Michigan,48183,Central,Office Supplies,56.98,7,0,22.792
+CA-2017-126074,02-10-2017,06-10-2017,RF-19735,United States,Trenton,Michigan,48183,Central,Office Supplies,2.88,1,0,1.4112
+CA-2016-110499,07-04-2016,09-04-2016,YC-21895,United States,San Francisco,California,94110,West,Technology,1199.976,3,0.2,374.9925
+CA-2015-135272,07-12-2015,12-12-2015,MS-17830,United States,Los Angeles,California,90036,West,Furniture,79.92,4,0,28.7712
+CA-2016-140928,18-09-2016,22-09-2016,NB-18655,United States,Jacksonville,Florida,32216,South,Furniture,383.438,4,0.45,-167.3184
+CA-2014-106803,29-12-2014,02-01-2015,DC-13285,United States,Cottage Grove,Minnesota,55016,Central,Office Supplies,24.56,2,0,6.8768
+CA-2014-106803,29-12-2014,02-01-2015,DC-13285,United States,Cottage Grove,Minnesota,55016,Central,Technology,119.8,4,0,47.92
+CA-2017-117240,23-07-2017,28-07-2017,CP-12340,United States,New York City,New York,10009,East,Office Supplies,13.128,3,0.2,4.2666
+CA-2017-133333,18-09-2017,22-09-2017,BF-11020,United States,Green Bay,Wisconsin,54302,Central,Office Supplies,22.72,4,0,10.224
+CA-2015-112319,31-08-2015,05-09-2015,AR-10510,United States,Los Angeles,California,90004,West,Office Supplies,58.32,,0,27.9936
+CA-2017-126046,03-11-2017,07-11-2017,JC-16105,United States,Atlanta,Georgia,30318,South,,12.39,3,0,5.6994
+CA-2015-114923,08-02-2015,13-02-2015,LH-17020,United States,Columbus,Ohio,43229,East,Technology,107.982,3,0.4,-26.9955
+CA-2014-162775,13-01-2014,15-01-2014,CS-12250,United States,Bossier City,Louisiana,71111,South,Office Supplies,11.36,2,0,5.3392
+CA-2014-162775,13-01-2014,15-01-2014,CS-12250,United States,Bossier City,Louisiana,71111,South,Office Supplies,50.94,3,0,25.47
+CA-2014-162775,13-01-2014,15-01-2014,CS-12250,United States,Bossier City,Louisiana,71111,South,Technology,646.74,6,0,258.696
+CA-2014-162775,13-01-2014,15-01-2014,CS-12250,United States,Bossier City,Louisiana,71111,South,Office Supplies,5.64,3,0,2.7072
+CA-2014-162775,13-01-2014,15-01-2014,CS-12250,United States,Bossier City,Louisiana,71111,South,Office Supplies,572.58,6,0,34.3548
+CA-2014-106810,14-05-2014,20-05-2014,AJ-10795,United States,Saint Petersburg,Florida,33710,South,Furniture,310.88,2,0.2,23.316
+CA-2016-157245,19-05-2016,24-05-2016,LE-16810,United States,Arlington,Virginia,22204,South,Furniture,641.96,2,0,179.7488
+CA-2017-104220,30-01-2017,05-02-2017,BV-11245,United States,Des Moines,Iowa,50315,Central,Office Supplies,18.28,2,0,9.14
+CA-2017-104220,30-01-2017,05-02-2017,BV-11245,United States,Des Moines,Iowa,50315,Central,Technology,207,3,0,51.75
+CA-2017-104220,30-01-2017,05-02-2017,BV-11245,United States,Des Moines,Iowa,50315,Central,Office Supplies,32.35,5,0,16.175
+CA-2017-104220,30-01-2017,05-02-2017,BV-11245,United States,Des Moines,Iowa,50315,Central,Office Supplies,7.71,1,0,3.4695
+CA-2017-104220,30-01-2017,05-02-2017,BV-11245,United States,Des Moines,Iowa,50315,Central,Office Supplies,40.3,2,0,10.881
+CA-2017-104220,30-01-2017,05-02-2017,BV-11245,United States,Des Moines,Iowa,50315,Central,Furniture,34.58,7,0,14.5236
+CA-2014-165974,29-06-2014,06-07-2014,DL-12865,United States,Cincinnati,Ohio,45231,East,Office Supplies,32.76,7,0.2,3.6855
+CA-2015-144267,21-08-2015,23-08-2015,NZ-18565,United States,San Francisco,California,94110,West,Furniture,544.008,3,0.2,40.8006
+CA-2015-144267,21-08-2015,23-08-2015,NZ-18565,United States,San Francisco,California,94110,West,Office Supplies,59.94,3,0,28.1718
+CA-2015-144267,21-08-2015,23-08-2015,NZ-18565,United States,San Francisco,California,94110,West,Office Supplies,23.92,4,0,11.7208
+CA-2015-144267,21-08-2015,23-08-2015,NZ-18565,United States,San Francisco,California,94110,West,Office Supplies,4.28,1,0,1.926
+US-2015-157014,03-10-2015,06-10-2015,BM-11785,United States,Columbus,Ohio,43229,East,Office Supplies,32.07,5,0.7,-22.449
+US-2015-157014,03-10-2015,06-10-2015,BM-11785,United States,Columbus,Ohio,43229,East,,24,2,0.2,-2.7
+US-2015-157014,03-10-2015,06-10-2015,BM-11785,United States,Columbus,Ohio,43229,East,Furniture,35.49,1,0.5,-15.6156
+US-2015-157014,03-10-2015,06-10-2015,BM-11785,United States,Columbus,Ohio,43229,East,Technology,47.984,2,0.2,0.5998
+CA-2015-154921,23-05-2015,28-05-2015,EA-14035,United States,Columbia,South Carolina,29203,South,Office Supplies,186.69,3,0,87.7443
+CA-2017-129567,17-03-2017,21-03-2017,CL-12565,United States,Lancaster,California,93534,West,Office Supplies,17.456,2,0.2,5.8914
+CA-2015-154620,12-12-2015,16-12-2015,LT-17110,United States,Lancaster,California,93534,West,Furniture,348.928,2,0.2,34.8928
+CA-2015-115938,26-06-2015,30-06-2015,SA-20830,United States,Richmond,Virginia,23223,South,Office Supplies,143.96,4,0,69.1008
+CA-2015-115938,26-06-2015,30-06-2015,SA-20830,United States,Richmond,Virginia,23223,South,Office Supplies,15.42,1,0,4.1634
+CA-2015-115938,26-06-2015,30-06-2015,SA-20830,United States,Richmond,Virginia,23223,South,Office Supplies,43.04,8,0,21.0896
+CA-2015-115938,26-06-2015,30-06-2015,SA-20830,United States,Richmond,Virginia,23223,South,Furniture,332.94,3,0,79.9056
+CA-2016-105256,20-05-2016,20-05-2016,JK-15730,United States,Asheville,North Carolina,28806,South,Technology,1363.96,5,0.2,85.2475
+CA-2014-156433,20-09-2014,26-09-2014,ES-14020,United States,San Francisco,California,94110,West,Office Supplies,9.96,2,0,4.5816
+CA-2014-156433,20-09-2014,26-09-2014,ES-14020,United States,San Francisco,California,94110,West,Office Supplies,21.72,4,0,10.6428
+CA-2017-151428,21-09-2017,26-09-2017,RH-19495,United States,Rochester,Minnesota,55901,Central,Office Supplies,20.16,7,0,9.8784
+CA-2015-124653,24-12-2015,26-12-2015,DB-13120,United States,Rochester,New York,14609,East,Office Supplies,132.79,7,0,63.7392
+CA-2015-124653,24-12-2015,26-12-2015,DB-13120,United States,Rochester,New York,14609,East,Office Supplies,12.96,2,0,6.2208
+CA-2015-124653,24-12-2015,26-12-2015,DB-13120,United States,Rochester,New York,14609,East,Office Supplies,21.56,,0,10.3488
+CA-2015-101910,27-11-2015,03-12-2015,CD-11920,United States,Lake Elsinore,California,92530,West,Furniture,283.92,5,0.2,17.745
+CA-2017-105809,20-02-2017,23-02-2017,HW-14935,United States,San Diego,California,92105,West,Furniture,22.23,1,0,7.3359
+CA-2017-105809,20-02-2017,23-02-2017,HW-14935,United States,San Diego,California,92105,West,Technology,215.968,2,0.2,18.8972
+CA-2016-136133,18-08-2016,23-08-2016,HW-14935,United States,New York City,New York,10024,East,Office Supplies,355.32,9,0,99.4896
+CA-2016-115504,12-03-2016,17-03-2016,MC-18130,United States,Monroe,Louisiana,71203,South,Office Supplies,12.96,2,0,6.2208
+CA-2017-135783,22-04-2017,24-04-2017,GM-14440,United States,San Francisco,California,94122,West,Furniture,18.28,2,0,6.2152
+CA-2014-134313,01-11-2014,07-11-2014,RA-19915,United States,Denver,Colorado,80219,West,Office Supplies,43.176,3,0.2,4.3176
+CA-2014-134313,01-11-2014,07-11-2014,RA-19915,United States,Denver,Colorado,80219,West,Technology,1983.968,4,0.2,247.996
+CA-2015-140921,03-02-2015,05-02-2015,AA-10375,United States,Omaha,Nebraska,68104,Central,Furniture,28.4,2,0,11.076
+CA-2015-140921,03-02-2015,05-02-2015,AA-10375,United States,Omaha,Nebraska,68104,Central,Technology,149.97,3,0,50.9898
+CA-2014-151995,13-10-2014,15-10-2014,ZC-21910,United States,Edmonds,Washington,98026,West,Office Supplies,11.52,4,0,3.2256
+CA-2014-151995,13-10-2014,15-10-2014,ZC-21910,United States,Edmonds,Washington,98026,West,Furniture,1298.55,5,0,311.652
+CA-2014-151995,13-10-2014,15-10-2014,ZC-21910,United States,Edmonds,Washington,98026,West,Office Supplies,213.92,4,0,62.0368
+CA-2014-151995,13-10-2014,15-10-2014,ZC-21910,United States,Edmonds,Washington,98026,West,Technology,25.78,2,0,2.578
+CA-2017-143686,14-05-2017,14-05-2017,PJ-19015,United States,Santa Ana,California,92704,West,Furniture,18.28,2,0,6.2152
+CA-2017-143686,14-05-2017,14-05-2017,PJ-19015,United States,Santa Ana,California,92704,West,Technology,1399.93,7,0,601.9699
+CA-2015-106565,20-03-2015,23-03-2015,BW-11110,United States,Milwaukee,Wisconsin,53209,Central,Office Supplies,51.84,8,0,24.8832
+CA-2016-149370,15-09-2016,19-09-2016,DB-13210,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,5.344,1,0.2,1.8704
+CA-2014-140858,28-06-2014,02-07-2014,CA-12775,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,41.472,8,0.2,14.5152
+CA-2014-140858,28-06-2014,02-07-2014,CA-12775,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,3.168,3,0.7,-2.4288
+CA-2014-140858,28-06-2014,02-07-2014,CA-12775,United States,Philadelphia,Pennsylvania,19140,East,Furniture,1228.465,,0.3,0
+CA-2014-140858,28-06-2014,02-07-2014,CA-12775,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,31.086,3,0.7,-22.7964
+CA-2014-140858,28-06-2014,02-07-2014,CA-12775,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,335.52,4,0.2,117.432
+CA-2017-101434,20-06-2017,27-06-2017,TR-21325,United States,Belleville,New Jersey,7109,East,Technology,239.97,3,0,71.991
+CA-2017-101434,20-06-2017,27-06-2017,TR-21325,United States,Belleville,New Jersey,7109,East,Office Supplies,9.82,2,0,4.8118
+US-2014-102071,09-05-2014,15-05-2014,PG-18820,United States,San Francisco,California,94110,West,Technology,67.8,4,0,4.068
+US-2014-102071,09-05-2014,15-05-2014,PG-18820,United States,San Francisco,California,94110,West,Technology,167.97,3,0,40.3128
+CA-2017-126956,21-08-2017,28-08-2017,GT-14710,United States,Lakeville,Minnesota,55044,Central,Office Supplies,35,7,0,16.8
+CA-2017-126956,21-08-2017,28-08-2017,GT-14710,United States,Lakeville,Minnesota,55044,Central,Office Supplies,37.24,4,0,10.7996
+CA-2017-126956,21-08-2017,28-08-2017,GT-14710,United States,Lakeville,Minnesota,55044,Central,Office Supplies,15.28,2,0,7.4872
+CA-2017-129462,16-06-2017,21-06-2017,JE-15745,United States,Florence,Kentucky,41042,South,Furniture,301.96,2,0,90.588
+CA-2017-129462,16-06-2017,21-06-2017,JE-15745,United States,Florence,Kentucky,41042,South,Office Supplies,180.66,3,0,50.5848
+CA-2017-129462,16-06-2017,21-06-2017,JE-15745,United States,Florence,Kentucky,41042,South,Technology,191.98,2,0,51.8346
+CA-2017-129462,16-06-2017,21-06-2017,JE-15745,United States,Florence,Kentucky,41042,South,Technology,65.99,1,0,17.1574
+CA-2016-165316,23-07-2016,27-07-2016,JB-15400,United States,Tampa,Florida,33614,South,Office Supplies,35.216,2,0.2,2.6412
+CA-2016-165316,23-07-2016,27-07-2016,JB-15400,United States,Tampa,Florida,33614,South,Office Supplies,23.696,2,0.2,6.5164
+CA-2016-165316,23-07-2016,27-07-2016,JB-15400,United States,Tampa,Florida,33614,South,Technology,265.475,1,0.5,-111.4995
+US-2014-115987,08-09-2014,13-09-2014,LH-17020,United States,Tyler,Texas,75701,Central,Office Supplies,51.184,,0.8,-79.3352
+US-2017-156083,04-11-2017,11-11-2017,JL-15175,United States,Columbia,Tennessee,38401,South,Office Supplies,9.664,2,0.2,3.2616
+US-2016-137547,07-03-2016,12-03-2016,EB-13705,United States,Fort Worth,Texas,76106,Central,Technology,21.072,3,0.2,1.5804
+CA-2015-100454,20-11-2015,25-11-2015,BM-11650,United States,New York City,New York,10035,East,Office Supplies,60.45,3,0,16.3215
+CA-2015-100454,20-11-2015,25-11-2015,BM-11650,United States,New York City,New York,10035,East,Office Supplies,11.52,4,0,3.3408
+CA-2015-100454,20-11-2015,25-11-2015,BM-11650,United States,New York City,New York,10035,East,Furniture,186.048,4,0.2,9.3024
+CA-2016-161669,07-11-2016,09-11-2016,EM-14095,United States,Los Angeles,California,90036,West,Office Supplies,37.44,4,0.2,11.7
+CA-2016-161669,07-11-2016,09-11-2016,EM-14095,United States,Los Angeles,California,90036,West,Office Supplies,26.976,4,0.2,8.7672
+CA-2016-161669,07-11-2016,09-11-2016,EM-14095,United States,Los Angeles,California,90036,West,Office Supplies,11.36,2,0,3.2944
+CA-2016-161669,07-11-2016,09-11-2016,EM-14095,United States,Los Angeles,California,90036,West,Office Supplies,14.62,2,0,6.8714
+CA-2015-114300,13-10-2015,17-10-2015,AF-10885,United States,Louisville,Kentucky,40214,South,Technology,83.72,7,0,23.4416
+CA-2015-114300,13-10-2015,17-10-2015,AF-10885,United States,Louisville,Kentucky,40214,South,Furniture,287.94,3,0,77.7438
+CA-2017-107503,01-01-2017,06-01-2017,GA-14725,United States,Lorain,Ohio,44052,East,Furniture,48.896,4,0.2,8.5568
+CA-2014-107755,07-02-2014,12-02-2014,CK-12760,United States,Linden,New Jersey,7036,East,Technology,115.36,7,0,49.6048
+CA-2016-152534,20-06-2016,25-06-2016,DP-13105,United States,Salinas,California,93905,West,,5.16,,0,1.3416
+CA-2016-152534,20-06-2016,25-06-2016,DP-13105,United States,Salinas,California,93905,West,Office Supplies,38.88,6,0,18.6624
+CA-2016-113747,28-05-2016,04-06-2016,VD-21670,United States,Jackson,Mississippi,39212,South,Office Supplies,185.88,6,0,50.1876
+CA-2016-123274,19-02-2016,24-02-2016,GT-14710,United States,New York City,New York,10035,East,Furniture,44.46,2,0,14.6718
+CA-2016-123274,19-02-2016,24-02-2016,GT-14710,United States,New York City,New York,10035,East,Office Supplies,242.94,3,0,9.7176
+CA-2014-125612,03-08-2014,08-08-2014,BK-11260,United States,New York City,New York,10035,East,Office Supplies,39.96,2,0,18.7812
+CA-2014-125612,03-08-2014,08-08-2014,BK-11260,United States,New York City,New York,10035,East,Office Supplies,102.3,10,0,26.598
+CA-2014-125612,03-08-2014,08-08-2014,BK-11260,United States,New York City,New York,10035,East,Office Supplies,21.36,2,0,5.7672
+CA-2017-161984,10-04-2017,15-04-2017,SJ-20125,United States,New Brunswick,New Jersey,8901,East,Office Supplies,7.61,1,0,3.5767
+CA-2017-161984,10-04-2017,15-04-2017,SJ-20125,United States,New Brunswick,New Jersey,8901,East,Office Supplies,7.16,2,0,3.58
+CA-2014-133851,09-06-2014,16-06-2014,CM-12445,United States,San Francisco,California,94122,West,Office Supplies,7.36,2,0,0.1472
+CA-2014-133851,09-06-2014,16-06-2014,CM-12445,United States,San Francisco,California,94122,West,Office Supplies,23.1,2,0,10.626
+CA-2016-134474,05-01-2016,07-01-2016,AJ-10795,United States,Jacksonville,Florida,32216,South,Technology,191.472,6,0.2,40.6878
+CA-2016-134474,05-01-2016,07-01-2016,AJ-10795,United States,Jacksonville,Florida,32216,South,Office Supplies,5.248,2,0.2,0.5904
+CA-2016-134474,05-01-2016,07-01-2016,AJ-10795,United States,Jacksonville,Florida,32216,South,,59.184,,0.2,5.1786
+CA-2014-149020,10-01-2014,15-01-2014,AJ-10780,United States,Springfield,Virginia,22153,South,Office Supplies,2.89,1,0,1.3583
+CA-2014-149020,10-01-2014,15-01-2014,AJ-10780,United States,Springfield,Virginia,22153,South,Furniture,51.94,1,0,21.2954
+CA-2016-134362,29-09-2016,02-10-2016,LS-16945,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,15.936,4,0.2,5.1792
+CA-2014-136742,06-04-2014,10-04-2014,GP-14740,United States,Lancaster,Pennsylvania,17602,East,Office Supplies,44.91,6,0.7,-35.928
+CA-2016-158099,03-09-2016,05-09-2016,PK-18910,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,1141.47,5,0.7,-760.98
+CA-2016-158099,03-09-2016,05-09-2016,PK-18910,United States,Philadelphia,Pennsylvania,19143,East,Technology,280.782,3,0.4,-46.797
+CA-2015-131128,19-10-2015,20-10-2015,TB-21520,United States,Concord,New Hampshire,3301,East,Office Supplies,34.44,3,0,17.22
+CA-2014-148488,10-12-2014,15-12-2014,SM-20005,United States,New York City,New York,10009,East,Office Supplies,11.36,2,0,5.2256
+CA-2014-148488,10-12-2014,15-12-2014,SM-20005,United States,New York City,New York,10009,East,Office Supplies,106.344,7,0.2,37.2204
+CA-2017-114636,25-08-2017,29-08-2017,GA-14725,United States,Charlotte,North Carolina,28205,South,Office Supplies,192.16,5,0.2,67.256
+CA-2016-116736,17-01-2016,21-01-2016,CC-12430,United States,Concord,New Hampshire,3301,East,Furniture,322.59,3,0,64.518
+CA-2016-116736,17-01-2016,21-01-2016,CC-12430,United States,Concord,New Hampshire,3301,East,Technology,29.99,1,0,13.1956
+CA-2016-116736,17-01-2016,21-01-2016,CC-12430,United States,Concord,New Hampshire,3301,East,Technology,371.97,3,0,66.9546
+US-2014-158638,17-09-2014,21-09-2014,AG-10765,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,5.892,4,0.7,-4.1244
+CA-2017-111689,30-11-2017,02-12-2017,HP-14815,United States,New York City,New York,10024,East,Office Supplies,68.472,3,0.2,23.1093
+CA-2017-111689,30-11-2017,02-12-2017,HP-14815,United States,New York City,New York,10024,East,Furniture,1242.9,5,0.1,262.39
+CA-2015-129098,09-10-2015,13-10-2015,DK-13090,United States,Springfield,Virginia,22153,South,Office Supplies,30.84,2,0,8.3268
+US-2017-123463,23-12-2017,23-12-2017,GZ-14470,United States,San Francisco,California,94109,West,Office Supplies,13.48,,0,5.9312
+CA-2016-165148,22-10-2016,24-10-2016,PM-19135,United States,Detroit,Michigan,48227,Central,Furniture,31.4,5,0,10.048
+CA-2014-134061,29-04-2014,04-05-2014,LL-16840,United States,Rochester,New York,14609,East,Furniture,17.46,2,0,5.9364
+CA-2015-143602,25-04-2015,28-04-2015,JS-15595,United States,Los Angeles,California,90045,West,Office Supplies,13.944,3,0.2,4.5318
+CA-2017-115364,26-06-2017,02-07-2017,OT-18730,United States,San Diego,California,92105,West,Office Supplies,83.76,12,0,1.6752
+CA-2017-150707,14-10-2017,19-10-2017,EL-13735,United States,Columbia,Maryland,21044,East,Office Supplies,37.66,7,0,18.4534
+CA-2014-104976,09-12-2014,16-12-2014,CK-12760,United States,San Francisco,California,94122,West,Office Supplies,34.68,6,0,16.9932
+CA-2017-132934,20-06-2017,26-06-2017,JE-15475,United States,New Rochelle,New York,10801,East,Technology,149.95,5,0,14.995
+CA-2017-132934,20-06-2017,26-06-2017,JE-15475,United States,New Rochelle,New York,10801,East,Office Supplies,51.312,3,0.2,18.6006
+CA-2017-133256,26-06-2017,27-06-2017,TH-21550,United States,Detroit,Michigan,48227,Central,Office Supplies,4.54,1,0,2.043
+CA-2017-133256,26-06-2017,27-06-2017,TH-21550,United States,Detroit,Michigan,48227,Central,Office Supplies,15.92,4,0,5.4128
+CA-2017-133256,26-06-2017,27-06-2017,TH-21550,United States,Detroit,Michigan,48227,Central,Technology,543.92,8,0,135.98
+CA-2016-105494,10-11-2016,12-11-2016,PC-18745,United States,San Francisco,California,94122,West,Office Supplies,155.82,7,0,42.0714
+CA-2016-105494,10-11-2016,12-11-2016,PC-18745,United States,San Francisco,California,94122,West,Office Supplies,70.008,3,0.2,24.5028
+CA-2016-140634,03-10-2016,06-10-2016,HL-15040,United States,Houston,Texas,77095,Central,Office Supplies,15.648,2,0.2,5.0856
+CA-2014-144407,09-09-2014,15-09-2014,MS-17365,United States,Detroit,Michigan,48227,Central,Office Supplies,103.6,7,0,51.8
+CA-2017-160983,29-10-2017,31-10-2017,GB-14530,United States,Auburn,New York,13021,East,Office Supplies,46.96,8,0,22.5408
+US-2016-114622,10-04-2016,12-04-2016,JR-16210,United States,Springfield,Ohio,45503,East,Office Supplies,8.904,2,0.7,-6.5296
+CA-2017-150959,11-11-2017,13-11-2017,TD-20995,United States,Garland,Texas,75043,Central,Office Supplies,10.44,5,0.2,3.393
+CA-2017-150959,11-11-2017,13-11-2017,TD-20995,United States,Garland,Texas,75043,Central,Office Supplies,18.336,4,0.8,-32.088
+CA-2017-132353,15-09-2017,17-09-2017,DB-13060,United States,Chicago,Illinois,60653,Central,Technology,323.976,3,0.2,20.2485
+CA-2016-130477,08-04-2016,12-04-2016,LC-17140,United States,Los Angeles,California,90032,West,Office Supplies,20.04,3,0,9.6192
+CA-2016-130477,08-04-2016,12-04-2016,LC-17140,United States,Los Angeles,California,90032,West,,64.96,,0,2.5984
+CA-2016-130477,08-04-2016,12-04-2016,LC-17140,United States,Los Angeles,California,90032,West,Office Supplies,12.96,2,0,6.2208
+CA-2017-143259,30-12-2017,03-01-2018,PO-18865,United States,New York City,New York,10009,East,Furniture,323.136,4,0.2,12.1176
+CA-2017-143259,30-12-2017,03-01-2018,PO-18865,United States,New York City,New York,10009,East,Technology,90.93,7,0,2.7279
+CA-2017-143259,30-12-2017,03-01-2018,PO-18865,United States,New York City,New York,10009,East,Office Supplies,52.776,3,0.2,19.791
+CA-2017-137596,02-09-2017,07-09-2017,BE-11335,United States,Jackson,Michigan,49201,Central,Technology,1199.8,4,0,323.946
+CA-2017-137596,02-09-2017,07-09-2017,BE-11335,United States,Jackson,Michigan,49201,Central,Technology,1928.78,7,0,829.3754
+CA-2017-137596,02-09-2017,07-09-2017,BE-11335,United States,Jackson,Michigan,49201,Central,Office Supplies,352.38,2,0,81.0474
+CA-2015-133627,31-05-2015,07-06-2015,SC-20050,United States,Norwich,Connecticut,6360,East,Furniture,22.2,6,0,9.102
+CA-2017-102519,27-11-2017,29-11-2017,BM-11650,United States,Milwaukee,Wisconsin,53209,Central,Furniture,46.94,1,0,19.2454
+CA-2017-102519,27-11-2017,29-11-2017,BM-11650,United States,Milwaukee,Wisconsin,53209,Central,Technology,143.73,9,0,56.0547
+US-2014-141215,15-06-2014,21-06-2014,KL-16555,United States,San Antonio,Texas,78207,Central,Furniture,99.918,2,0.3,-18.5562
+US-2014-141215,15-06-2014,21-06-2014,KL-16555,United States,San Antonio,Texas,78207,Central,Furniture,797.944,4,0.3,-56.996
+US-2014-141215,15-06-2014,21-06-2014,KL-16555,United States,San Antonio,Texas,78207,Central,Office Supplies,8.568,3,0.8,-14.5656
+CA-2016-165218,05-03-2016,11-03-2016,RW-19630,United States,Dallas,Texas,75220,Central,Office Supplies,149.352,3,0.2,50.4063
+CA-2016-165218,05-03-2016,11-03-2016,RW-19630,United States,Dallas,Texas,75220,Central,Office Supplies,12.992,1,0.2,-0.812
+CA-2014-138296,05-12-2014,12-12-2014,RC-19825,United States,Alexandria,Virginia,22304,South,Office Supplies,24.56,2,0,6.8768
+CA-2015-111164,11-04-2015,15-04-2015,SE-20110,United States,New York City,New York,10009,East,Technology,85.14,3,0,34.9074
+CA-2015-111164,11-04-2015,15-04-2015,SE-20110,United States,New York City,New York,10009,East,Technology,21.99,1,0,10.5552
+CA-2015-111164,11-04-2015,15-04-2015,SE-20110,United States,New York City,New York,10009,East,Office Supplies,406.6,5,0,113.848
+CA-2016-149797,15-09-2016,20-09-2016,AH-10075,United States,New York City,New York,10011,East,Office Supplies,841.568,2,0.2,294.5488
+CA-2014-132962,13-09-2014,16-09-2014,JM-15535,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,15.552,3,0.2,5.4432
+CA-2014-132962,13-09-2014,16-09-2014,JM-15535,United States,Philadelphia,Pennsylvania,19143,East,Technology,252,5,0.2,53.55
+CA-2015-115091,05-10-2015,09-10-2015,JJ-15760,United States,Springfield,Virginia,22153,South,Office Supplies,46.2,4,0,12.936
+CA-2015-115091,05-10-2015,09-10-2015,JJ-15760,United States,Springfield,Virginia,22153,South,Office Supplies,28.84,2,0,9.5172
+CA-2017-144932,14-04-2017,17-04-2017,AB-10165,United States,Toledo,Ohio,43615,East,Office Supplies,14.592,3,0.2,2.5536
+CA-2017-144932,14-04-2017,17-04-2017,AB-10165,United States,Toledo,Ohio,43615,East,Office Supplies,89.856,3,0.2,21.3408
+CA-2017-144932,14-04-2017,17-04-2017,AB-10165,United States,Toledo,Ohio,43615,East,Office Supplies,13.872,3,0.2,5.0286
+CA-2017-114216,02-09-2017,06-09-2017,RK-19300,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,12.192,3,0.2,4.1148
+CA-2016-140081,20-06-2016,24-06-2016,CG-12040,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,45.056,8,0.2,15.2064
+CA-2016-140081,20-06-2016,24-06-2016,CG-12040,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,29.718,6,0.7,-21.7932
+CA-2016-140081,20-06-2016,24-06-2016,CG-12040,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,15.552,3,0.2,5.4432
+CA-2016-140081,20-06-2016,24-06-2016,CG-12040,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,447.696,2,0.2,33.5772
+US-2017-111745,05-11-2017,06-11-2017,RA-19885,United States,Farmington,New Mexico,87401,West,Technology,159.99,1,0,54.3966
+CA-2015-148250,13-12-2015,17-12-2015,RP-19270,United States,Riverside,California,92503,West,Office Supplies,12.96,2,0,6.2208
+CA-2015-148250,13-12-2015,17-12-2015,RP-19270,United States,Riverside,California,92503,West,Office Supplies,134.48,4,0,34.9648
+CA-2016-105760,19-06-2016,20-06-2016,KC-16255,United States,San Francisco,California,94110,West,Office Supplies,17.12,2,0,8.0464
+CA-2016-142958,13-12-2016,20-12-2016,RW-19630,United States,Torrance,California,90503,West,Office Supplies,6.096,2,0.2,2.2098
+CA-2016-142958,13-12-2016,20-12-2016,RW-19630,United States,Torrance,California,90503,West,Furniture,1114.272,4,0.2,41.7852
+CA-2015-120880,29-05-2015,03-06-2015,JL-15850,United States,Seattle,Washington,98105,West,Office Supplies,32.4,5,0,15.552
+CA-2015-120880,29-05-2015,03-06-2015,JL-15850,United States,Seattle,Washington,98105,West,Office Supplies,540.57,3,0,140.5482
+CA-2015-120880,29-05-2015,03-06-2015,JL-15850,United States,Seattle,Washington,98105,West,Office Supplies,167.76,5,0.2,62.91
+US-2015-140200,26-07-2015,28-07-2015,CA-12775,United States,Mesa,Arizona,85204,West,Furniture,393.165,3,0.5,-204.4458
+US-2017-110576,28-11-2017,02-12-2017,RB-19795,United States,Philadelphia,Pennsylvania,19120,East,Furniture,516.488,7,0.2,-12.9122
+US-2017-110576,28-11-2017,02-12-2017,RB-19795,United States,Philadelphia,Pennsylvania,19120,East,Furniture,1007.232,6,0.2,75.5424
+US-2017-110576,28-11-2017,02-12-2017,RB-19795,United States,Philadelphia,Pennsylvania,19120,East,Furniture,2065.32,12,0.4,-619.596
+US-2017-110576,28-11-2017,02-12-2017,RB-19795,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,15.552,3,0.2,5.4432
+US-2017-110576,28-11-2017,02-12-2017,RB-19795,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,25.344,6,0.2,7.92
+CA-2017-131156,03-04-2017,07-04-2017,KH-16360,United States,Philadelphia,Pennsylvania,19143,East,Furniture,25.472,4,0.2,7.6416
+CA-2017-136539,28-12-2017,01-01-2018,GH-14665,United States,Round Rock,Texas,78664,Central,Office Supplies,27.168,2,0.2,2.7168
+CA-2017-136539,28-12-2017,01-01-2018,GH-14665,United States,Round Rock,Texas,78664,Central,Furniture,78.8528,2,0.32,-11.596
+CA-2017-119305,30-11-2017,04-12-2017,SW-20275,United States,Jackson,Mississippi,39212,South,Office Supplies,173.8,5,0,43.45
+CA-2017-102414,15-05-2017,18-05-2017,JA-15970,United States,Phoenix,Arizona,85023,West,Technology,29.592,1,0.2,2.5893
+CA-2017-102414,15-05-2017,18-05-2017,JA-15970,United States,Phoenix,Arizona,85023,West,Office Supplies,4.752,2,0.7,-3.168
+CA-2017-102414,15-05-2017,18-05-2017,JA-15970,United States,Phoenix,Arizona,85023,West,Office Supplies,15.552,3,0.2,5.6376
+CA-2015-112571,22-09-2015,22-09-2015,DL-12925,United States,Oceanside,California,92054,West,Furniture,204.6,2,0,53.196
+CA-2017-152142,14-11-2017,19-11-2017,LW-16990,United States,San Francisco,California,94110,West,Furniture,321.568,2,0.2,28.1372
+CA-2015-160059,27-11-2015,01-12-2015,TB-21190,United States,Fayetteville,Arkansas,72701,South,Office Supplies,6.24,2,0,3.0576
+CA-2016-120859,01-09-2016,04-09-2016,CV-12805,United States,San Francisco,California,94110,West,Office Supplies,21.88,2,0,10.94
+CA-2014-127488,22-09-2014,24-09-2014,MS-17365,United States,Boca Raton,Florida,33433,South,Office Supplies,4.608,2,0.2,1.6704
+CA-2017-135279,09-04-2017,11-04-2017,BS-11800,United States,New York City,New York,10011,East,Office Supplies,9.82,2,0,4.8118
+CA-2017-135279,09-04-2017,11-04-2017,BS-11800,United States,New York City,New York,10011,East,Office Supplies,35.97,3,0,9.7119
+CA-2017-135279,09-04-2017,11-04-2017,BS-11800,United States,New York City,New York,10011,East,Office Supplies,12.96,2,0,6.2208
+CA-2017-135279,09-04-2017,11-04-2017,BS-11800,United States,New York City,New York,10011,East,Office Supplies,191.6,4,0,91.968
+CA-2017-135279,09-04-2017,11-04-2017,BS-11800,United States,New York City,New York,10011,East,Office Supplies,8.64,3,0,4.2336
+CA-2017-135279,09-04-2017,11-04-2017,BS-11800,United States,New York City,New York,10011,East,Office Supplies,501.81,3,0,0
+CA-2014-115791,16-01-2014,18-01-2014,DL-13315,United States,Philadelphia,Pennsylvania,19134,East,Furniture,127.104,6,0.2,28.5984
+CA-2014-115791,16-01-2014,18-01-2014,DL-13315,United States,Philadelphia,Pennsylvania,19134,East,Technology,124.2,3,0.4,-31.05
+CA-2014-115791,16-01-2014,18-01-2014,DL-13315,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,18.588,2,0.7,-13.6312
+CA-2014-115791,16-01-2014,18-01-2014,DL-13315,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,30.072,,0.2,10.1493
+US-2017-103247,05-10-2017,08-10-2017,PO-19195,United States,New York City,New York,10011,East,Technology,160.93,7,0,3.2186
+US-2017-103247,05-10-2017,08-10-2017,PO-19195,United States,New York City,New York,10011,East,Office Supplies,75.792,3,0.2,25.5798
+US-2017-100209,09-07-2017,15-07-2017,TD-20995,United States,Portland,Oregon,97206,West,Office Supplies,1.08,2,0.7,-0.792
+CA-2017-159366,07-01-2017,10-01-2017,BW-11110,United States,Detroit,Michigan,48205,Central,Technology,3059.982,2,0.1,679.996
+CA-2016-145499,30-05-2016,31-05-2016,RW-19690,United States,Wilmington,North Carolina,28403,South,Office Supplies,3.282,2,0.7,-2.6256
+CA-2015-157035,09-12-2015,12-12-2015,KB-16600,United States,Columbus,Indiana,47201,Central,Office Supplies,34.02,3,0,16.6698
+CA-2016-144939,03-10-2016,08-10-2016,EB-13870,United States,New York City,New York,10035,East,Furniture,599.292,6,0.1,93.2232
+CA-2014-163419,11-11-2014,14-11-2014,TZ-21580,United States,Louisville,Colorado,80027,West,Office Supplies,3.392,1,0.2,0.8056
+CA-2014-163419,11-11-2014,14-11-2014,TZ-21580,United States,Louisville,Colorado,80027,West,Technology,559.984,2,0.2,55.9984
+CA-2014-163419,11-11-2014,14-11-2014,TZ-21580,United States,Louisville,Colorado,80027,West,Furniture,603.92,5,0.2,75.49
+CA-2017-100314,29-09-2017,05-10-2017,AS-10630,United States,Pasadena,Texas,77506,Central,Office Supplies,7.968,2,0.2,2.5896
+CA-2017-100314,29-09-2017,05-10-2017,AS-10630,United States,Pasadena,Texas,77506,Central,Office Supplies,27.968,4,0.2,9.4392
+CA-2017-100314,29-09-2017,05-10-2017,AS-10630,United States,Pasadena,Texas,77506,Central,Technology,336.51,3,0.4,44.868
+CA-2015-146829,10-03-2015,10-03-2015,TS-21340,United States,Houston,Texas,77041,Central,Office Supplies,1.112,2,0.8,-1.8904
+CA-2017-167899,21-05-2017,26-05-2017,JG-15805,United States,Auburn,New York,13021,East,Furniture,520.05,5,0,72.807
+CA-2017-167899,21-05-2017,26-05-2017,JG-15805,United States,Auburn,New York,13021,East,Office Supplies,17.97,3,0,5.2113
+CA-2015-153549,29-03-2015,31-03-2015,SL-20155,United States,Jacksonville,Florida,32216,South,Furniture,1166.92,5,0.2,131.2785
+CA-2016-110023,09-09-2016,11-09-2016,TS-21610,United States,New York City,New York,10024,East,Office Supplies,14.624,2,0.2,5.484
+CA-2016-105585,26-08-2016,27-08-2016,RF-19735,United States,San Jose,California,95123,West,Office Supplies,10.23,3,0,4.9104
+CA-2016-105585,26-08-2016,27-08-2016,RF-19735,United States,San Jose,California,95123,West,Office Supplies,154.9,5,0,69.705
+CA-2014-117639,21-05-2014,25-05-2014,MW-18235,United States,Virginia Beach,Virginia,23464,South,Office Supplies,2715.93,7,0,1276.4871
+CA-2014-117639,21-05-2014,25-05-2014,MW-18235,United States,Virginia Beach,Virginia,23464,South,Technology,617.97,,0,173.0316
+CA-2015-162537,28-10-2015,03-11-2015,RD-19585,United States,Henderson,Kentucky,42420,South,Office Supplies,10.67,1,0,4.9082
+CA-2015-162537,28-10-2015,03-11-2015,RD-19585,United States,Henderson,Kentucky,42420,South,Office Supplies,36.63,3,0,9.8901
+CA-2015-162537,28-10-2015,03-11-2015,RD-19585,United States,Henderson,Kentucky,42420,South,Furniture,24.1,5,0,9.158
+CA-2015-162537,28-10-2015,03-11-2015,RD-19585,United States,Henderson,Kentucky,42420,South,Furniture,33.11,7,0,12.9129
+CA-2016-155488,13-11-2016,17-11-2016,FM-14290,United States,Vancouver,Washington,98661,West,Office Supplies,44.02,2,0,11.4452
+CA-2015-124891,31-07-2015,31-07-2015,RH-19495,United States,New York City,New York,10024,East,Technology,2309.65,7,0,762.1845
+CA-2015-124891,31-07-2015,31-07-2015,RH-19495,United States,New York City,New York,10024,East,Furniture,1090.782,7,0.4,-290.8752
+CA-2015-124891,31-07-2015,31-07-2015,RH-19495,United States,New York City,New York,10024,East,Office Supplies,19.44,3,0,9.3312
+CA-2015-126445,27-08-2015,31-08-2015,RA-19945,United States,Murrieta,California,92563,West,Office Supplies,484.65,3,0,92.0835
+CA-2015-111199,13-11-2015,17-11-2015,JK-15730,United States,Jacksonville,North Carolina,28540,South,Office Supplies,115.296,3,0.2,40.3536
+CA-2015-105312,06-11-2015,09-11-2015,MT-17815,United States,Scottsdale,Arizona,85254,West,Office Supplies,7.08,3,0.2,2.478
+CA-2015-105312,06-11-2015,09-11-2015,MT-17815,United States,Scottsdale,Arizona,85254,West,Office Supplies,4.401,3,0.7,-3.5208
+US-2017-106705,26-12-2017,01-01-2018,PO-18850,United States,Burlington,Iowa,52601,Central,Office Supplies,44.75,5,0,20.585
+CA-2017-135034,01-08-2017,03-08-2017,AT-10735,United States,Chicago,Illinois,60653,Central,Technology,95.984,2,0.2,5.999
+CA-2014-158540,24-11-2014,26-11-2014,VG-21790,United States,San Diego,California,92037,West,Furniture,151.72,4,0,27.3096
+CA-2017-118437,17-06-2017,21-06-2017,PF-19165,United States,Olympia,Washington,98502,West,Furniture,155.25,3,0,46.575
+CA-2017-118437,17-06-2017,21-06-2017,PF-19165,United States,Olympia,Washington,98502,West,Office Supplies,14.03,1,0,4.0687
+US-2015-126214,21-12-2015,24-12-2015,JS-15880,United States,Seattle,Washington,98103,West,Furniture,1618.37,,0,356.0414
+US-2015-126214,21-12-2015,24-12-2015,JS-15880,United States,Seattle,Washington,98103,West,Technology,99.6,1,0,36.852
+CA-2015-133025,17-09-2015,19-09-2015,MO-17800,United States,Los Angeles,California,90036,West,Office Supplies,32.4,5,0,15.552
+CA-2015-108665,06-07-2015,10-07-2015,KM-16225,United States,New York City,New York,10011,East,Furniture,13.96,2,0,6.7008
+CA-2015-108665,06-07-2015,10-07-2015,KM-16225,United States,New York City,New York,10011,East,Furniture,155.82,3,0,63.8862
+CA-2015-108665,06-07-2015,10-07-2015,KM-16225,United States,New York City,New York,10011,East,Technology,124.95,5,0,2.499
+CA-2015-108665,06-07-2015,10-07-2015,KM-16225,United States,New York City,New York,10011,East,Office Supplies,601.65,5,0,156.429
+CA-2015-124450,27-04-2015,03-05-2015,GT-14710,United States,Washington,District of Columbia,20016,East,Office Supplies,22.74,3,0,8.8686
+CA-2015-124450,27-04-2015,03-05-2015,GT-14710,United States,Washington,District of Columbia,20016,East,Furniture,1267.53,3,0,316.8825
+CA-2015-124450,27-04-2015,03-05-2015,GT-14710,United States,Washington,District of Columbia,20016,East,Technology,1379.92,8,0,648.5624
+CA-2015-167269,16-06-2015,20-06-2015,PB-19150,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,6.208,2,0.2,2.1728
+CA-2017-106964,17-12-2017,20-12-2017,HR-14770,United States,Los Angeles,California,90045,West,Office Supplies,11.808,2,0.2,4.2804
+CA-2016-126529,11-01-2016,13-01-2016,DE-13255,United States,Springfield,Ohio,45503,East,Office Supplies,15.552,3,0.2,5.4432
+CA-2016-126529,11-01-2016,13-01-2016,DE-13255,United States,Springfield,Ohio,45503,East,Office Supplies,63.312,3,0.2,20.5764
+CA-2016-126529,11-01-2016,13-01-2016,DE-13255,United States,Springfield,Ohio,45503,East,Technology,15.588,2,0.4,-9.8724
+CA-2014-163552,11-07-2014,15-07-2014,LA-16780,United States,Hackensack,New Jersey,7601,East,Office Supplies,177.2,,0,83.284
+CA-2014-163552,11-07-2014,15-07-2014,LA-16780,United States,Hackensack,New Jersey,7601,East,Technology,197.97,3,0,57.4113
+CA-2014-163552,11-07-2014,15-07-2014,LA-16780,United States,Hackensack,New Jersey,7601,East,Furniture,854.94,3,0,213.735
+CA-2014-163552,11-07-2014,15-07-2014,LA-16780,United States,Hackensack,New Jersey,7601,East,Furniture,124.11,9,0,52.1262
+CA-2014-163552,11-07-2014,15-07-2014,LA-16780,United States,Hackensack,New Jersey,7601,East,Office Supplies,14.4,5,0,7.056
+CA-2016-109820,20-11-2016,22-11-2016,AG-10390,United States,Cincinnati,Ohio,45231,East,Office Supplies,15.696,3,0.2,5.1012
+CA-2016-109820,20-11-2016,22-11-2016,AG-10390,United States,Cincinnati,Ohio,45231,East,Office Supplies,2.628,2,0.7,-1.9272
+CA-2016-109820,20-11-2016,22-11-2016,AG-10390,United States,Cincinnati,Ohio,45231,East,Office Supplies,14.427,3,0.7,-10.5798
+CA-2016-113061,22-04-2016,26-04-2016,EL-13735,United States,Jefferson City,Missouri,65109,Central,Furniture,86.62,2,0,8.662
+CA-2015-127418,13-06-2015,14-06-2015,JJ-15445,United States,Los Angeles,California,90004,West,Office Supplies,36.624,3,0.2,13.734
+CA-2017-121818,20-11-2017,21-11-2017,JH-15430,United States,Burlington,North Carolina,27217,South,Office Supplies,23.968,7,0.2,2.6964
+CA-2017-121818,20-11-2017,21-11-2017,JH-15430,United States,Burlington,North Carolina,27217,South,Office Supplies,28.728,3,0.2,1.7955
+CA-2016-127670,20-03-2016,24-03-2016,RD-19660,United States,Saint Peters,Missouri,63376,Central,Furniture,697.16,4,0,146.4036
+CA-2016-102981,06-09-2016,09-09-2016,MO-17500,United States,New York City,New York,10035,East,Technology,31.86,2,0,11.151
+CA-2016-102981,06-09-2016,09-09-2016,MO-17500,United States,New York City,New York,10035,East,Furniture,722.352,3,0.2,90.294
+CA-2017-115651,09-07-2017,12-07-2017,NS-18640,United States,Chicago,Illinois,60610,Central,Office Supplies,8.84,,0.2,2.9835
+CA-2017-115651,09-07-2017,12-07-2017,NS-18640,United States,Chicago,Illinois,60610,Central,Office Supplies,58.464,9,0.8,-146.16
+CA-2017-152702,12-10-2017,16-10-2017,SN-20710,United States,Rockford,Illinois,61107,Central,Furniture,254.604,14,0.3,-18.186
+CA-2016-169103,08-03-2016,13-03-2016,ZC-21910,United States,Miami,Florida,33142,South,Technology,1363.96,5,0.2,85.2475
+CA-2016-169103,08-03-2016,13-03-2016,ZC-21910,United States,Miami,Florida,33142,South,Furniture,102.36,3,0.2,-3.8385
+CA-2014-139192,27-05-2014,01-06-2014,LC-16885,United States,San Francisco,California,94109,West,Technology,1113.504,12,0.2,125.2692
+CA-2014-139192,27-05-2014,01-06-2014,LC-16885,United States,San Francisco,California,94109,West,Technology,99.99,1,0,37.9962
+US-2015-153500,03-07-2015,05-07-2015,DG-13300,United States,Philadelphia,Pennsylvania,19134,East,Furniture,168.464,2,0.2,-29.4812
+US-2015-153500,03-07-2015,05-07-2015,DG-13300,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,6.72,2,0.2,2.436
+US-2015-153500,03-07-2015,05-07-2015,DG-13300,United States,Philadelphia,Pennsylvania,19134,East,Furniture,282.888,9,0.2,56.5776
+CA-2015-110667,04-04-2015,08-04-2015,NF-18595,United States,New York City,New York,10009,East,Office Supplies,11.16,2,0,4.3524
+CA-2015-110667,04-04-2015,08-04-2015,NF-18595,United States,New York City,New York,10009,East,Furniture,108.4,2,0,22.764
+CA-2015-110667,04-04-2015,08-04-2015,NF-18595,United States,New York City,New York,10009,East,Office Supplies,82.344,3,0.2,27.7911
+CA-2015-110667,04-04-2015,08-04-2015,NF-18595,United States,New York City,New York,10009,East,Office Supplies,9.088,4,0.2,3.2944
+CA-2017-167150,10-12-2017,17-12-2017,BP-11185,United States,San Diego,California,92037,West,Office Supplies,19.936,4,0.2,7.2268
+CA-2017-167150,10-12-2017,17-12-2017,BP-11185,United States,San Diego,California,92037,West,Office Supplies,65.568,,0.2,22.9488
+CA-2016-105284,24-11-2016,01-12-2016,MG-17650,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,4.416,3,0.2,1.6008
+US-2015-125374,23-03-2015,29-03-2015,JD-16060,United States,Houston,Texas,77095,Central,Furniture,107.772,2,0.3,-29.2524
+CA-2015-161263,16-04-2015,21-04-2015,TS-21160,United States,Toledo,Ohio,43615,East,Office Supplies,45.216,3,0.2,4.5216
+CA-2015-161263,16-04-2015,21-04-2015,TS-21160,United States,Toledo,Ohio,43615,East,Office Supplies,10.416,7,0.2,-2.2134
+CA-2015-161263,16-04-2015,21-04-2015,TS-21160,United States,Toledo,Ohio,43615,East,Office Supplies,7.872,3,0.2,1.2792
+CA-2015-161263,16-04-2015,21-04-2015,TS-21160,United States,Toledo,Ohio,43615,East,Technology,118.782,3,0.4,-27.7158
+CA-2015-161263,16-04-2015,21-04-2015,TS-21160,United States,Toledo,Ohio,43615,East,Office Supplies,1.448,1,0.2,0.2353
+CA-2015-161263,16-04-2015,21-04-2015,TS-21160,United States,Toledo,Ohio,43615,East,Office Supplies,55.47,5,0.7,-46.225
+CA-2016-157686,01-10-2016,02-10-2016,BD-11620,United States,San Francisco,California,94122,West,Furniture,194.848,4,0.2,12.178
+US-2017-139955,28-09-2017,30-09-2017,CM-12160,United States,Brownsville,Texas,78521,Central,Office Supplies,1.744,1,0.2,-0.3488
+US-2015-150161,25-07-2015,29-07-2015,RB-19795,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,25.176,4,0.7,-18.4624
+CA-2015-144652,20-11-2015,26-11-2015,SN-20560,United States,Los Angeles,California,90008,West,Office Supplies,19.46,7,0,5.0596
+CA-2016-152814,28-04-2016,02-05-2016,EH-14005,United States,Denver,Colorado,80219,West,Office Supplies,29.472,3,0.2,9.9468
+CA-2017-106943,14-11-2017,19-11-2017,FO-14305,United States,New York City,New York,10035,East,Office Supplies,8.64,2,0.2,3.024
+CA-2016-134348,12-11-2016,19-11-2016,MS-17710,United States,Mesa,Arizona,85204,West,Office Supplies,6.27,,0.7,-4.598
+CA-2016-134348,12-11-2016,19-11-2016,MS-17710,United States,Mesa,Arizona,85204,West,Office Supplies,4.368,7,0.7,-3.3488
+CA-2016-134348,12-11-2016,19-11-2016,MS-17710,United States,Mesa,Arizona,85204,West,Technology,31.984,2,0.2,1.999
+CA-2016-161781,29-09-2016,30-09-2016,CC-12100,United States,Columbus,Indiana,47201,Central,Office Supplies,40.88,7,0,10.6288
+CA-2017-132521,23-09-2017,25-09-2017,DW-13540,United States,Seattle,Washington,98105,West,Office Supplies,119.96,2,0,33.5888
+CA-2017-132521,23-09-2017,25-09-2017,DW-13540,United States,Seattle,Washington,98105,West,Office Supplies,31.44,3,0,8.4888
+CA-2017-132521,23-09-2017,25-09-2017,DW-13540,United States,Seattle,Washington,98105,West,Office Supplies,6.88,1,0.2,2.322
+CA-2015-110016,29-11-2015,04-12-2015,BT-11395,United States,Detroit,Michigan,48227,Central,Office Supplies,19.92,4,0,9.3624
+CA-2015-110016,29-11-2015,04-12-2015,BT-11395,United States,Detroit,Michigan,48227,Central,Furniture,1106.91,9,0,121.7601
+US-2016-143819,01-03-2016,05-03-2016,KD-16270,United States,Yonkers,New York,10701,East,Furniture,836.592,8,0.4,-264.9208
+US-2016-143819,01-03-2016,05-03-2016,KD-16270,United States,Yonkers,New York,10701,East,Office Supplies,26.38,1,0,12.1348
+US-2016-143819,01-03-2016,05-03-2016,KD-16270,United States,Yonkers,New York,10701,East,Office Supplies,362.92,2,0,105.2468
+US-2016-143819,01-03-2016,05-03-2016,KD-16270,United States,Yonkers,New York,10701,East,Technology,4899.93,7,0,2400.9657
+CA-2016-167584,12-08-2016,12-08-2016,LC-16870,United States,Des Moines,Iowa,50315,Central,Office Supplies,6.48,1,0,3.1104
+CA-2016-166163,15-08-2016,20-08-2016,CY-12745,United States,Oakland,California,94601,West,Technology,71.976,3,0.2,7.1976
+CA-2016-166163,15-08-2016,20-08-2016,CY-12745,United States,Oakland,California,94601,West,Office Supplies,3.15,1,0,1.512
+CA-2017-158407,04-06-2017,10-06-2017,LW-16990,United States,Monroe,North Carolina,28110,South,Furniture,31.984,2,0.2,1.999
+CA-2017-158407,04-06-2017,10-06-2017,LW-16990,United States,Monroe,North Carolina,28110,South,Technology,71.984,2,0.2,25.1944
+CA-2015-143490,06-12-2015,13-12-2015,NP-18325,United States,San Diego,California,92105,West,Office Supplies,120.15,,0,33.642
+CA-2015-143490,06-12-2015,13-12-2015,NP-18325,United States,San Diego,California,92105,West,Technology,219.184,2,0.2,19.1786
+CA-2015-165085,27-12-2015,31-12-2015,BT-11485,United States,Clinton,Maryland,20735,East,Office Supplies,28.9,5,0,14.161
+CA-2015-165085,27-12-2015,31-12-2015,BT-11485,United States,Clinton,Maryland,20735,East,Office Supplies,355.96,2,0,103.2284
+CA-2017-160423,21-01-2017,26-01-2017,PS-19045,United States,Charlotte,North Carolina,28205,South,Office Supplies,348.208,7,0.2,30.4682
+CA-2017-160423,21-01-2017,26-01-2017,PS-19045,United States,Charlotte,North Carolina,28205,South,Office Supplies,35.784,7,0.7,-28.6272
+CA-2014-159338,25-06-2014,28-06-2014,NS-18640,United States,Los Angeles,California,90049,West,Furniture,447.84,5,0.2,11.196
+CA-2016-107216,14-06-2016,17-06-2016,PV-18985,United States,San Francisco,California,94122,West,Office Supplies,7.04,4,0,2.0416
+CA-2016-107216,14-06-2016,17-06-2016,PV-18985,United States,San Francisco,California,94122,West,Furniture,8.73,3,0,4.1031
+CA-2016-107216,14-06-2016,17-06-2016,PV-18985,United States,San Francisco,California,94122,West,Technology,29.29,1,0,9.6657
+CA-2016-107216,14-06-2016,17-06-2016,PV-18985,United States,San Francisco,California,94122,West,Office Supplies,8.64,3,0,2.5056
+US-2017-145863,21-04-2017,27-04-2017,RP-19390,United States,Houston,Texas,77041,Central,Office Supplies,2.694,3,0.8,-4.7145
+US-2017-145863,21-04-2017,27-04-2017,RP-19390,United States,Houston,Texas,77041,Central,Office Supplies,2.934,3,0.8,-4.9878
+CA-2016-112340,21-10-2016,27-10-2016,NM-18520,United States,Riverside,California,92503,West,Office Supplies,22.92,3,0,11.2308
+US-2016-110156,19-11-2016,24-11-2016,EH-13945,United States,Houston,Texas,77041,Central,Office Supplies,100.704,6,0.2,-16.3644
+US-2016-110156,19-11-2016,24-11-2016,EH-13945,United States,Houston,Texas,77041,Central,Furniture,2.328,,0.6,-0.7566
+US-2016-110156,19-11-2016,24-11-2016,EH-13945,United States,Houston,Texas,77041,Central,Office Supplies,10.78,5,0.8,-17.248
+US-2016-110156,19-11-2016,24-11-2016,EH-13945,United States,Houston,Texas,77041,Central,Office Supplies,58.368,12,0.2,21.888
+US-2016-110156,19-11-2016,24-11-2016,EH-13945,United States,Houston,Texas,77041,Central,Office Supplies,40.968,3,0.2,13.8267
+US-2016-110156,19-11-2016,24-11-2016,EH-13945,United States,Houston,Texas,77041,Central,Technology,71.96,5,0.2,25.186
+US-2016-110156,19-11-2016,24-11-2016,EH-13945,United States,Houston,Texas,77041,Central,Office Supplies,10.368,2,0.2,3.6288
+US-2016-110156,19-11-2016,24-11-2016,EH-13945,United States,Houston,Texas,77041,Central,Office Supplies,1.192,2,0.8,-2.0264
+CA-2017-140585,18-12-2017,23-12-2017,RA-19915,United States,Encinitas,California,92024,West,Office Supplies,46.672,2,0.2,16.3352
+CA-2017-140585,18-12-2017,23-12-2017,RA-19915,United States,Encinitas,California,92024,West,Furniture,119.833,1,0.15,-12.6882
+CA-2017-140585,18-12-2017,23-12-2017,RA-19915,United States,Encinitas,California,92024,West,Technology,119.98,2,0,57.5904
+CA-2016-144855,22-07-2016,24-07-2016,DL-13495,United States,San Francisco,California,94110,West,Office Supplies,6.3,2,0,3.024
+CA-2015-142755,04-09-2015,08-09-2015,CS-12355,United States,Roswell,Georgia,30076,South,Office Supplies,279.9,5,0,137.151
+CA-2015-142755,04-09-2015,08-09-2015,CS-12355,United States,Roswell,Georgia,30076,South,Technology,619.95,5,0,111.591
+CA-2015-142755,04-09-2015,08-09-2015,CS-12355,United States,Roswell,Georgia,30076,South,Office Supplies,4.36,2,0,2.0492
+CA-2015-142755,04-09-2015,08-09-2015,CS-12355,United States,Roswell,Georgia,30076,South,Office Supplies,15.28,2,0,7.4872
+US-2014-147627,20-01-2014,26-01-2014,HL-15040,United States,Jonesboro,Arkansas,72401,South,Technology,699.93,,0,181.9818
+US-2014-147627,20-01-2014,26-01-2014,HL-15040,United States,Jonesboro,Arkansas,72401,South,Office Supplies,22.96,7,0,6.6584
+US-2014-147627,20-01-2014,26-01-2014,HL-15040,United States,Jonesboro,Arkansas,72401,South,Furniture,38.6,4,0,11.58
+US-2014-147627,20-01-2014,26-01-2014,HL-15040,United States,Jonesboro,Arkansas,72401,South,Office Supplies,6.63,3,0,1.7901
+US-2014-147627,20-01-2014,26-01-2014,HL-15040,United States,Jonesboro,Arkansas,72401,South,Office Supplies,23.34,3,0,10.9698
+US-2014-147627,20-01-2014,26-01-2014,HL-15040,United States,Jonesboro,Arkansas,72401,South,Furniture,1067.94,3,0,224.2674
+CA-2015-105970,02-03-2015,07-03-2015,PA-19060,United States,Richmond,Indiana,47374,Central,Office Supplies,10.16,1,0,2.6416
+CA-2015-105970,02-03-2015,07-03-2015,PA-19060,United States,Richmond,Indiana,47374,Central,Office Supplies,101.88,6,0,50.94
